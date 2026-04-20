@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EsotericPictureExtractor.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:/Users/Jeff/Downloads/Bake-Sale.pdf\" \"../../../../../testFiles/Output\" \"MP3-PDF\""
+      //      "commandLineArgs": "\"C:/Users/Jeff/Downloads/icomets.org/wh/c02.pdf\" \"../../../../../testFiles/Output\" \"MP3-PDF\""
+      //"commandLineArgs": "\"../../../../../testFiles/eepn2wa2.pdf\" \"../../../../../testFiles/Output\" \"MP3\""
+    }
+  }
+}
