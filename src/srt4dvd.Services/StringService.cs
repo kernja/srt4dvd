@@ -59,6 +59,7 @@ namespace srt4dvd.Services
             return $"{ts:hh\\:mm\\:ss},{ts.Milliseconds:D3}";
         }
 
+       
         public int CountNewLines(string value)
         {
             if (string.IsNullOrWhiteSpace(value)) return 0;

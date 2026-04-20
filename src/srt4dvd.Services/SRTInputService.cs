@@ -1,23 +1,19 @@
 ﻿using srt4dvd.Services.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace srt4dvd.Services
 {
     public interface ISRTInputService
     {
-
+        IEnumerable<Line> ReadLines(string path);
     }
+
     public class SRTInputService : ISRTInputService
     {
         private IIOService _ioService { get; set; }
         private IStringService _stringService { get; set; }
         public SRTInputService(IIOService ioService, IStringService stringService)
         {
-            _ioService = ioService; 
+            _ioService = ioService;
             _stringService = stringService;
         }
 

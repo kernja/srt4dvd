@@ -17,6 +17,7 @@
 
 	<ItemGroup>
 	  <ProjectReference Include="..\EsotericPictureExtractor.Services\FileCarverNet.Services.csproj" />
+	  <ProjectReference Include="..\srt4dvd.Services\srt4dvd.Services.csproj" />
 	</ItemGroup>
 	
 </Project>

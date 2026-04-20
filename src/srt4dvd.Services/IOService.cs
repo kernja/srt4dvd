@@ -7,7 +7,6 @@
         void WriteText(string path, string[] content);
         void WriteText(string path, string content);
         void WriteBinary(string path, byte[] content);
-
         Stream GetStream(string path);
     }
     public class IOService : IIOService
@@ -49,7 +48,7 @@
 
             try
             {
-                File.WriteAllLines(path, content);
+                File.WriteAllLines(path, content, new System.Text.UTF8Encoding(false));
             }
             catch (Exception ex)
             {
