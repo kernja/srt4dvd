@@ -1,7 +1,6 @@
-﻿using srt4dvd.Services;
-using srt4dvd.Services.Formats;
-using Microsoft.Extensions.Configuration;
+﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using srt4dvd.Services;
 
 namespace srt4dvd.ConsoleApp
 {
@@ -12,12 +11,9 @@ namespace srt4dvd.ConsoleApp
             var arguments = ProcessArgs(args);
 
             var services = CreateServices();
-            var io = services.GetRequiredService<IIOService>();
+            var srt = services.GetRequiredService<ISRTService>();
 
-            var sourceFile = arguments.sourceFile;
-            var outputFolder = arguments.destinationFile;
-
-          
+            srt.ProcessFile(arguments.sourceFile, arguments.destinationFile);
 
         }
 

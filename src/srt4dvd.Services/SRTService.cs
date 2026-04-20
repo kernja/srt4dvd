@@ -1,16 +1,10 @@
 ﻿using srt4dvd.Services.Models;
-using System;
-using System.Collections.Generic;
-using System.Diagnostics.Metrics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace srt4dvd.Services
 {
     public interface ISRTService
     {
-        void ProcessFile(string inputPath, string outputPath)
+        void ProcessFile(string inputPath, string outputPath);
     }
     public class SRTService : ISRTService
     {
@@ -86,7 +80,7 @@ namespace srt4dvd.Services
         {
             // get how many lines are in this caption
             int lineCount = workingLines.Count;
-            
+
             // if we don't have any, bail
             if (lineCount == 0) return;
 
@@ -123,7 +117,7 @@ namespace srt4dvd.Services
                 End = end,
                 Value = string.Join(Environment.NewLine, workingLines.Select(x => x.Value))
             });
-            
+
             // update current time index
             currentTimeIndex = end;
 
