@@ -100,7 +100,7 @@ This is how I use it:
 2. (Optional) Run through Subtitle Edit for basic cleanup  
 3. Run `srt4dvd`  
 4. Feed output into DVD Flick  
-5. Hope I didn’t mess up aspect ratio and have to redo everything  
+5. Hope I didn’t mess up aspect ratio or audio offsets and have to redo everything  
 
 ---
 
