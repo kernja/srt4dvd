@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
 VisualStudioVersion = 18.4.11626.88 stable
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileCarverNet.ConsoleApp", "srt4dvd.ConsoleApp\srt4dvd.ConsoleApp.csproj", "{4251068C-24F2-40C0-8837-D7BA150FBB86}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srt4dvd.ConsoleApp", "srt4dvd.ConsoleApp\srt4dvd.ConsoleApp.csproj", "{4251068C-24F2-40C0-8837-D7BA150FBB86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileCarverNet.Services", "srt4dvd.Services\srt4dvd.Services.csproj", "{45D394D5-E524-422D-B1C8-50EB894D2938}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srt4dvd.Services", "srt4dvd.Services\srt4dvd.Services.csproj", "{45D394D5-E524-422D-B1C8-50EB894D2938}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

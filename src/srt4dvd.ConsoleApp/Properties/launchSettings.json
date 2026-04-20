@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "EsotericPictureExtractor.ConsoleApp": {
+    "srt4dvd.ConsoleApp": {
       "commandName": "Project",
       "commandLineArgs": "\"C:/Users/Jeff/Downloads/WhiteChicks-Esp.srt"
     }
