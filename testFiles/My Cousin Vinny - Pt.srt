@@ -1,0 +1,5785 @@
+1
+00:00:28,529 --> 00:00:31,779
+(* "Way Down South" pelos fabulosos Thunderbirds)
+
+2
+00:00:39,498 --> 00:00:42,534
+* Saia na estrada, indo para baixo no meu caminho
+
+3
+00:00:42,626 --> 00:00:44,702
+* Passando tudo à vista
+
+4
+00:00:45,629 --> 00:00:48,832
+* Eu o empurro para o máximo, ficando para relaxar
+
+5
+00:00:48,966 --> 00:00:51,208
+* Porque vai ser uma noite de sábado
+
+6
+00:00:52,094 --> 00:00:54,846
+* Eu conheço um lugar logo acima da colina
+
+7
+00:00:54,930 --> 00:00:58,299
+* Se você quiser se divertir, você vai
+
+8
+00:00:58,517 --> 00:01:00,842
+* Way Down South
+
+9
+00:01:01,895 --> 00:01:03,971
+* Do outro lado da fronteira
+
+10
+00:01:04,898 --> 00:01:07,057
+* Way Down South
+
+11
+00:01:08,026 --> 00:01:10,352
+* Não precisa de lei e ordem
+
+12
+00:01:11,321 --> 00:01:14,192
+* Depois de descer lá, você saberá
+
+13
+00:01:14,283 --> 00:01:17,533
+* Way para o sul é o caminho a seguir
+
+14
+00:01:24,376 --> 00:01:25,407
+* Você pode ter a pista rápida
+
+15
+00:01:25,502 --> 00:01:27,162
+* Eu não quero estresse e tensão
+
+16
+00:01:27,254 --> 00:01:29,792
+* Vou deixar tudo para trás
+
+17
+00:01:30,507 --> 00:01:31,883
+* Você fica um pouco preguiçoso
+
+18
+00:01:31,967 --> 00:01:33,960
+* Aja um pouco louco
+
+19
+00:01:34,052 --> 00:01:36,378
+* Ninguém está indo à mente
+
+20
+00:01:36,722 --> 00:01:39,889
+* Não precisa de muito dinheiro ou um carro chamativo
+
+21
+00:01:39,975 --> 00:01:43,011
+* É melhor você te levar do jeito que você é
+
+22
+00:01:43,312 --> 00:01:45,185
+* Way Down South
+
+23
+00:01:46,440 --> 00:01:48,765
+* Do outro lado da fronteira
+
+24
+00:01:49,651 --> 00:01:51,727
+* Way Down South
+
+25
+00:01:55,991 --> 00:01:59,490
+* Depois de descer lá, então você verá
+
+26
+00:01:59,661 --> 00:02:03,362
+* Não é nada como a hospitalidade do sul
+
+27
+00:02:21,767 --> 00:02:24,934
+* Way Down South
+
+28
+00:02:25,020 --> 00:02:28,223
+* Quase para a fronteira
+
+29
+00:02:28,315 --> 00:02:31,067
+* Way Down South
+
+30
+00:02:31,151 --> 00:02:33,642
+* Ela sabe mais do que mamãe a ensinou
+
+31
+00:02:34,738 --> 00:02:37,656
+* Todo o caminho de Nashville a Nova Orleans
+
+32
+00:02:37,741 --> 00:02:41,157
+* Temos barato-talkin'belles e delta rainhas
+
+33
+00:02:41,245 --> 00:02:43,321
+* Way Down South
+
+34
+00:02:44,373 --> 00:02:46,864
+* Quase para a fronteira
+
+35
+00:02:47,501 --> 00:02:50,704
+* Way Down South
+
+36
+00:02:51,004 --> 00:02:52,664
+* Não precisa de lei e ordem
+
+37
+00:02:53,966 --> 00:02:57,086
+* Depois de descer lá, então você verá
+
+38
+00:02:57,177 --> 00:03:00,546
+* Não é nada como a hospitalidade do sul
+
+39
+00:03:09,606 --> 00:03:13,189
+- Aqui estão alguns por 37 centavos. - Aqui está alguns para 32.
+
+40
+00:03:13,277 --> 00:03:15,353
+31.
+
+41
+00:03:16,029 --> 00:03:20,027
+- É isso. Eles não têm genéricos? - Eu acho que este é o genérico.
+
+42
+00:03:20,117 --> 00:03:22,608
+Eu nunca ouvi falar dessa marca. Talvez devêssemos conseguir isso.
+
+43
+00:03:22,703 --> 00:03:24,992
+Você está pagando pela publicidade.
+
+44
+00:03:25,289 --> 00:03:28,455
+- atum. Deveríamos obter atum. - Por favor, não há mais atum.
+
+45
+00:03:28,542 --> 00:03:31,578
+- Tem proteína. Precisamos de proteína. - O feijão é proteína.
+
+46
+00:03:31,670 --> 00:03:34,541
+- Beans faz você peidar. - Temos um conversível.
+
+47
+00:03:35,883 --> 00:03:37,959
+Estou recebendo isso para mim.
+
+48
+00:03:46,101 --> 00:03:48,426
+Um burrito e uma grande lama.
+
+49
+00:03:53,317 --> 00:03:56,567
+- 21 dólares e 67 centavos. - Você pode preencher isso?
+
+50
+00:03:59,698 --> 00:04:01,240
+21.67
+
+51
+00:04:34,483 --> 00:04:37,104
+Jesus! Olha, eu esqueci de pagar por isso.
+
+52
+00:04:37,569 --> 00:04:40,606
+Você poderia ter sido pego. E se alguém visse?
+
+53
+00:04:40,697 --> 00:04:44,695
+Você sabe qual é a idade mínima para execução no Alabama?
+
+54
+00:04:44,785 --> 00:04:47,276
+- cerca de dezesseis? - dez.
+
+55
+00:04:54,878 --> 00:04:56,871
+- Há um policial atrás de nós. - Um policial?
+
+56
+00:04:56,964 --> 00:05:00,796
+- Não há nada com que se preocupar, tudo bem? - Pode haver.
+
+57
+00:05:00,884 --> 00:05:02,960
+Apenas relaxe. Por favor.
+
+58
+00:05:07,141 --> 00:05:09,264
+- ele ainda está aí? - Sim.
+
+59
+00:05:09,351 --> 00:05:11,842
+- Droga! - Acalme -se, tudo bem?
+
+60
+00:05:11,979 --> 00:05:15,811
+Há um policial atrás de nós, só isso. Não há problema.
+
+61
+00:05:16,483 --> 00:05:17,514
+- uh-oh. - O que?
+
+62
+00:05:17,776 --> 00:05:21,608
+- Sua luz está acesa. - Porra! Porra! Maldito.
+
+63
+00:05:21,864 --> 00:05:25,861
+- O que vamos fazer? - Provavelmente não é nada. Pode ser uma luz traseira.
+
+64
+00:05:25,951 --> 00:05:30,328
+- Não temos dinheiro para fiança! - Fiança? Nada aconteceu.
+
+65
+00:05:30,414 --> 00:05:34,328
+- Nada? Você roubou algo, não é? - Cale-se. Tudo bem?
+
+66
+00:05:34,418 --> 00:05:36,494
+(sirene)
+
+67
+00:05:40,340 --> 00:05:42,416
+Tudo bem. Aqui vem ele.
+
+68
+00:05:46,638 --> 00:05:48,548
+- Mostre -me suas mãos! - Jesus.
+
+69
+00:05:48,640 --> 00:05:50,763
+Mostre -me suas mãos. Pegue -os!
+
+70
+00:05:51,477 --> 00:05:53,600
+Pegue -os! Acima!
+
+71
+00:05:53,687 --> 00:05:57,436
+Agora coloque as mãos em cima da cabeça e saia do carro.
+
+72
+00:05:58,567 --> 00:06:01,734
+- Outta o carro! - Ir.
+
+73
+00:06:02,613 --> 00:06:05,779
+(Cara) Sim, tenho certeza disso. É o número três e cinco.
+
+74
+00:06:06,116 --> 00:06:08,275
+Ridículo. Tudo isso sobre uma lata de atum.
+
+75
+00:06:08,368 --> 00:06:10,694
+(Over PA) Fique quieto!
+
+76
+00:06:11,163 --> 00:06:15,208
+(cara) Sim. Uh-huh. Você tem certeza sobre isso?
+
+77
+00:06:15,375 --> 00:06:18,163
+Sim. Ele está parado bem aqui.
+
+78
+00:06:18,253 --> 00:06:20,329
+Tudo bem. Tchau.
+
+79
+00:06:21,131 --> 00:06:23,207
+Acho que podemos ter uma confissão.
+
+80
+00:06:27,638 --> 00:06:31,256
+- Acabei de ouvir alguém atirar em Jimmy Willis. - Ele está morto.
+
+81
+00:06:31,350 --> 00:06:35,050
+Oh meu Deus! Quem faria uma coisa dessas?
+
+82
+00:06:42,361 --> 00:06:44,899
+- Olá, Bill. Eu sou o xerife Farley. - Oi.
+
+83
+00:06:50,661 --> 00:06:53,578
+- Você sabe por que você está aqui? - Sim, eu faço. Desculpe.
+
+84
+00:06:53,664 --> 00:06:56,155
+Era uma coisa estúpida de se fazer.
+
+85
+00:06:56,250 --> 00:06:59,037
+- Você já foi informado de seus direitos? - Sim.
+
+86
+00:06:59,211 --> 00:07:02,461
+- Você está disposto a renunciar a isso, certo? - Vou cooperar plenamente.
+
+87
+00:07:02,589 --> 00:07:06,883
+Vou assinar uma declaração, ou o que quer que seja mais fácil tudo isso.
+
+88
+00:07:06,969 --> 00:07:10,883
+Bom. Bom. Isso é bom.
+
+89
+00:07:10,973 --> 00:07:14,555
+Mas eu quero que você saiba, Stan, ele não tinha nada a ver com isso.
+
+90
+00:07:14,643 --> 00:07:17,099
+Ele o ajudou a planejar?
+
+91
+00:07:17,187 --> 00:07:19,725
+Não. Quero dizer ... quero dizer, não foi planejado.
+
+92
+00:07:19,815 --> 00:07:22,104
+Você sabe, apenas aconteceu.
+
+93
+00:07:22,901 --> 00:07:25,024
+Stan tentou impedi -lo a qualquer momento?
+
+94
+00:07:26,613 --> 00:07:28,902
+Não. Quero dizer, ele era ...
+
+95
+00:07:35,164 --> 00:07:37,405
+- Isso é um grande negócio? - Ajudar e abettin '.
+
+96
+00:07:37,749 --> 00:07:41,747
+- Auxiliar e favorecer? Isso é uma coisa importante? - Oh sim. Sim!
+
+97
+00:07:43,589 --> 00:07:47,456
+Um acessório? Vocês estão brincando? Um acessório?
+
+98
+00:07:47,551 --> 00:07:49,840
+Eu não ajudei. Eu não planejei.
+
+99
+00:07:51,388 --> 00:07:53,630
+Você não tentou parar com isso.
+
+100
+00:07:53,724 --> 00:07:57,009
+Eu não sabia que estava acontecendo. Eu descobri mais tarde no carro.
+
+101
+00:07:57,102 --> 00:08:01,100
+Por que você não saiu, ligue para a polícia então?
+
+102
+00:08:01,857 --> 00:08:04,099
+Ele é meu amigo.
+
+103
+00:08:04,193 --> 00:08:06,269
+Bem!
+
+104
+00:08:07,070 --> 00:08:10,024
+Seu amigo colocou você em muitos problemas.
+
+105
+00:08:11,241 --> 00:08:13,815
+O que vai acontecer com Bill?
+
+106
+00:08:13,911 --> 00:08:16,318
+Nada. A menos que ele seja condenado.
+
+107
+00:08:18,457 --> 00:08:25,206
+Se ele estiver, vamos executar eletricidade suficiente através dele para iluminar Birmingham.
+
+108
+00:08:25,422 --> 00:08:30,001
+Nós éramos amigos na NYU, e nós dois aplicamos e recebemos bolsas de estudos na UCLA.
+
+109
+00:08:30,094 --> 00:08:33,545
+Então, imaginamos que o cenário seria melhor passando pelo sul.
+
+110
+00:08:33,639 --> 00:08:36,675
+- E o atum peixe? - Eu esqueci o atum peixe.
+
+111
+00:08:36,767 --> 00:08:38,759
+E então saímos.
+
+112
+00:08:39,186 --> 00:08:42,934
+Ele pegou você com o atum peixe? Foi assim que começou?
+
+113
+00:08:43,607 --> 00:08:47,142
+- Não, ele não disse nada. - Mas ele sabia disso.
+
+114
+00:08:48,529 --> 00:08:51,020
+Não sei.
+
+115
+00:08:52,699 --> 00:08:54,941
+Vamos falar sobre isso por um momento.
+
+116
+00:08:57,704 --> 00:09:00,160
+Você pagou pelas compras.
+
+117
+00:09:01,625 --> 00:09:05,208
+- E então o quê? - Saímos para o carro, e é isso.
+
+118
+00:09:06,130 --> 00:09:08,418
+Quando você atirou nele?
+
+119
+00:09:09,466 --> 00:09:12,040
+- O que? - Em que ponto você atirou no funcionário?
+
+120
+00:09:13,679 --> 00:09:16,170
+- Eu atirei no funcionário? - Sim. Quando você atirou nele?
+
+121
+00:09:16,348 --> 00:09:20,049
+- Eu atirei no funcionário? - Ei, precisamos de você aqui.
+
+122
+00:09:20,144 --> 00:09:22,931
+Estou no meio de uma maldita confissão aqui!
+
+123
+00:09:26,733 --> 00:09:29,141
+Uau! Espere um minuto!
+
+124
+00:09:40,247 --> 00:09:43,367
+- Qual é o problema? - Você sabe do que se trata?
+
+125
+00:09:43,459 --> 00:09:46,413
+- Sim, eles estão fodendo conosco. - Você não acredita neles?
+
+126
+00:09:46,503 --> 00:09:50,583
+- Eles não executam para furtar em lojas. - Você acha que estamos reservados para furtar em lojas?
+
+127
+00:09:50,674 --> 00:09:55,051
+Não. Você está sendo reservado para furtar em lojas. Estou reservado para acessório para furtos em lojas.
+
+128
+00:09:55,137 --> 00:10:00,677
+Não, Stan. Estou sendo reservado para assassinato e você está sendo reservado para o acessório para assassinato.
+
+129
+00:10:02,770 --> 00:10:05,225
+É hora de fazer suas ligações.
+
+130
+00:10:05,314 --> 00:10:07,805
+- Droga! - Você poderia entrar em contato com seus pais?
+
+131
+00:10:07,900 --> 00:10:10,569
+Como? Chame o consulado chileno? O que eles podem fazer?
+
+132
+00:10:10,652 --> 00:10:13,226
+Envie um guia para as montanhas procurando por elas?
+
+133
+00:10:13,322 --> 00:10:15,991
+Precisamos ligar para um advogado. Um ótimo advogado.
+
+134
+00:10:16,074 --> 00:10:18,151
+Você conhece ótimos advogados?
+
+135
+00:10:18,243 --> 00:10:20,532
+Não. Estou ligando para minha mãe.
+
+136
+00:10:23,040 --> 00:10:25,709
+Olá, MA. Estamos em Wazoo.
+
+137
+00:10:26,043 --> 00:10:28,878
+Está no Condado de Beechum, Alabama, MA.
+
+138
+00:10:29,671 --> 00:10:33,716
+Não é muito bom, mãe. Nós ... fomos presos.
+
+139
+00:10:34,384 --> 00:10:39,260
+MA. MA, por favor. MA, por favor. Primeiro de tudo, não fizemos isso, tudo bem?
+
+140
+00:10:41,892 --> 00:10:42,971
+Assassinato.
+
+141
+00:10:43,060 --> 00:10:45,847
+MA. MA, PLE! Ma, é um erro.
+
+142
+00:10:45,938 --> 00:10:48,014
+Devemos parecer com os caras que fizeram isso.
+
+143
+00:10:48,107 --> 00:10:51,107
+- Diga a ela o que achamos que está acontecendo ... - Cale a boca.
+
+144
+00:10:51,193 --> 00:10:55,855
+Achamos que eles estão tentando nos preparar como Patsies. Você sabe o quão corrupto é aqui.
+
+145
+00:10:55,948 --> 00:10:59,648
+Os Klan estão aqui, eles estão consanguíneos, dormem com suas irmãs.
+
+146
+00:11:01,161 --> 00:11:03,403
+- Alguns deles fazem. - Tudo bem, mãe, ouça.
+
+147
+00:11:03,497 --> 00:11:07,542
+Temos que conseguir um advogado e vai custar muito dinheiro.
+
+148
+00:11:08,252 --> 00:11:12,463
+- Quanto custaria um advogado? - um decente? US $ 50.000. US $ 100.000.
+
+149
+00:11:12,548 --> 00:11:15,751
+50.000. 100.000 ... eu sei, mãe. Eu sei.
+
+150
+00:11:17,469 --> 00:11:19,676
+- Podemos usar algum advogado? - Eu penso que sim.
+
+151
+00:11:19,763 --> 00:11:22,088
+Ele diz que pensa assim.
+
+152
+00:11:23,100 --> 00:11:24,974
+Oh, ele é?
+
+153
+00:11:25,060 --> 00:11:28,180
+Bem, essa é uma ótima ideia. Você acha que ele vai fazer isso?
+
+154
+00:11:28,272 --> 00:11:30,229
+- Temos um advogado na família. - Quem?
+
+155
+00:11:30,315 --> 00:11:31,560
+Meu primo Vinny.
+
+156
+00:11:31,900 --> 00:11:33,810
+(Screech dos pneus)
+
+157
+00:11:33,902 --> 00:11:38,030
+(* "Mente seu próprio negócio", de Clivilles e Cole Blares, do carro)
+
+158
+00:11:44,204 --> 00:11:46,280
+O que é aquilo?
+
+159
+00:12:05,058 --> 00:12:07,135
+De onde ele é?
+
+160
+00:12:14,651 --> 00:12:16,727
+(Clanks do motor do carro)
+
+161
+00:12:39,051 --> 00:12:41,127
+(desliga a música)
+
+162
+00:12:57,027 --> 00:13:01,606
+- O que? - Você se destaca como um polegar dolorido por aqui.
+
+163
+00:13:01,949 --> 00:13:05,068
+- Meu? E você? - Eu me encaixo melhor do que você.
+
+164
+00:13:05,160 --> 00:13:09,028
+- Pelo menos estou vestindo botas de cowboy. - Oh sim. Você se mistura (!)
+
+165
+00:13:11,625 --> 00:13:14,661
+Aposto que a comida chinesa aqui é terrível.
+
+166
+00:13:16,130 --> 00:13:19,333
+- Eu não vejo nada. - As rodas ficaram desequilibradas ...
+
+167
+00:13:19,425 --> 00:13:22,295
+... logo depois de atingirmos a lama. - Não, não é isso.
+
+168
+00:13:22,386 --> 00:13:25,091
+Eu acho que você deveria colocá -lo em um rack e dar uma olhada.
+
+169
+00:13:25,180 --> 00:13:27,256
+O que está errado?
+
+170
+00:13:27,349 --> 00:13:29,306
+- O que? - Qual é o problema?
+
+171
+00:13:29,393 --> 00:13:31,469
+O carro estava brilhando na estrada.
+
+172
+00:13:31,562 --> 00:13:35,642
+- Você tem lama nos pneus. - Eu tenho lama nos meus pneus?
+
+173
+00:13:35,732 --> 00:13:38,270
+Deixe -me perguntar, como você coloca a lama nos pneus?
+
+174
+00:13:38,360 --> 00:13:42,109
+Isso é uma figura de fala. A lama fica ao redor do interior da roda.
+
+175
+00:13:42,197 --> 00:13:46,277
+- lança o equilíbrio. - Você já ouviu isso? Lama nos pneus?
+
+176
+00:13:46,368 --> 00:13:47,743
+Não.
+
+177
+00:13:47,828 --> 00:13:51,411
+Ela nunca ouviu isso. Ela sabe tudo sobre carros.
+
+178
+00:13:53,500 --> 00:13:57,368
+Veja, aqui em baixo, todo mundo fica preso na lama de vez em quando.
+
+179
+00:13:57,463 --> 00:14:01,460
+- Sim. Somos famosos por nossa lama. - famoso por sua lama?
+
+180
+00:14:01,550 --> 00:14:04,753
+Como está sua comida chinesa?
+
+181
+00:14:04,845 --> 00:14:09,306
+Você continua perguntando sobre isso. Você não pode dizer que eles não têm restaurantes chineses?
+
+182
+00:14:09,391 --> 00:14:12,475
+Tenho que deixar todo mundo saber que você é um turista. Vamos.
+
+183
+00:14:12,561 --> 00:14:14,637
+E você é um viajante mundial (?)
+
+184
+00:14:32,039 --> 00:14:34,708
+Ourjail foi condenado esta manhã.
+
+185
+00:14:34,792 --> 00:14:39,537
+É por isso que trazemos todos vocês para a instalação de correções do estado.
+
+186
+00:14:51,016 --> 00:14:53,222
+Desbloqueie o portão!
+
+187
+00:14:56,688 --> 00:14:58,480
+Continue.
+
+188
+00:15:03,445 --> 00:15:05,521
+(Prisioneiros torcem e apitam)
+
+189
+00:15:47,322 --> 00:15:51,534
+- Você sabe o que acontece nesses lugares? - Sim, eu sei o que acontece.
+
+190
+00:15:51,618 --> 00:15:54,703
+Muitas vezes, um cara grande chamado Bubba com quem ninguém vai se enredar.
+
+191
+00:15:54,788 --> 00:15:58,489
+Ele vai proteger você - se você se tornar seu escravo sexual e fazer o que quiser.
+
+192
+00:15:58,584 --> 00:16:01,288
+Há apenas nós dois aqui.
+
+193
+00:16:01,920 --> 00:16:05,788
+E quanto a esses berços? E se eles colocarem outra pessoa aqui?
+
+194
+00:16:06,049 --> 00:16:08,126
+Stan.
+
+195
+00:16:08,844 --> 00:16:11,169
+- Cale-se. - OK.
+
+196
+00:16:18,645 --> 00:16:23,307
+- (Slams da porta) - (Homem) Não acredito na minha sorte!
+
+197
+00:16:23,400 --> 00:16:25,476
+(grito)
+
+198
+00:16:35,245 --> 00:16:37,321
+Aqui.
+
+199
+00:16:38,123 --> 00:16:40,448
+Temos alguém para você.
+
+200
+00:16:43,921 --> 00:16:46,376
+Você deve ser Stan. Como você está'?
+
+201
+00:16:47,174 --> 00:16:49,131
+Por que eles traziam você aqui?
+
+202
+00:16:49,218 --> 00:16:52,468
+Acabei de entrar. Pedi os novos caras e eles me trouxeram aqui.
+
+203
+00:16:52,554 --> 00:16:55,128
+Ei, ele está dormindo, hein? Rapaz fofo.
+
+204
+00:16:55,224 --> 00:16:59,553
+Você sabe, talvez eu apenas comece com você. Deixe -o dormir um pouco.
+
+205
+00:16:59,645 --> 00:17:02,930
+- Olha, eu não quero fazer isso. - Ei, eu não culpo você.
+
+206
+00:17:03,023 --> 00:17:06,392
+Se eu estivesse em sua situação, eu gostaria de passar por tudo isso ...
+
+207
+00:17:06,485 --> 00:17:09,936
+... o mais rápido e com o mínimo de dor possível.
+
+208
+00:17:10,030 --> 00:17:14,407
+Então, vamos tentar o nosso melhor para torná-lo um procedimento simples de entrada e saída.
+
+209
+00:17:15,494 --> 00:17:18,199
+Qual é o problema?
+
+210
+00:17:18,288 --> 00:17:20,447
+Relaxe, relaxe. Relaxar.
+
+211
+00:17:20,541 --> 00:17:23,542
+Talvez devêssemos passar alguns minutos juntos.
+
+212
+00:17:23,627 --> 00:17:28,870
+Você sabe, para se familiarizar antes de nós ... você sabe, antes de chegarmos a isso.
+
+213
+00:17:29,716 --> 00:17:33,382
+- O que você tem? - Eu não quero fazer isso.
+
+214
+00:17:34,805 --> 00:17:38,221
+Eu entendo, mas quais são suas alternativas?
+
+215
+00:17:38,475 --> 00:17:41,560
+Minhas alternativas? Para quê? Para você?
+
+216
+00:17:42,146 --> 00:17:44,019
+Eu não sei. Suicídio. Morte.
+
+217
+00:17:45,357 --> 00:17:49,651
+Olha, sou eu ou eles. Você está fodido, de um jeito ou de outro.
+
+218
+00:17:49,778 --> 00:17:52,067
+Ei, ei, ei.
+
+219
+00:17:52,156 --> 00:17:55,988
+Iluminar, ok? Não se preocupe, eu vou te ajudar.
+
+220
+00:17:56,076 --> 00:17:57,107
+Nossa, obrigado.
+
+221
+00:17:57,494 --> 00:18:01,955
+Desculpe -me, mas acho que um pouco de gratidão não seria uma linha de fora aqui.
+
+222
+00:18:02,040 --> 00:18:06,667
+- Você acha que eu deveria ser grato? - Sim. Quero dizer, é sua bunda, não minha.
+
+223
+00:18:06,754 --> 00:18:11,629
+Eu acho que você deveria ser grato. Eu acho que você deveria estar de joelhos.
+
+224
+00:18:11,717 --> 00:18:14,006
+Eu não sabia que sua visita era uma honra.
+
+225
+00:18:14,094 --> 00:18:17,843
+Estou fazendo um favor. Você está me pegando por nada, seu pequeno porra.
+
+226
+00:18:17,931 --> 00:18:20,257
+Rapaz, isso é um inferno de um ego que você tem.
+
+227
+00:18:20,350 --> 00:18:22,888
+Qual é o seu problema?
+
+228
+00:18:22,978 --> 00:18:26,845
+- Eu não vim aqui apenas para me afastar. - Não. Não, não.
+
+229
+00:18:27,691 --> 00:18:30,941
+Estou notando você. Não estou fazendo nada.
+
+230
+00:18:31,028 --> 00:18:33,945
+Você está sozinho. Estou apenas tomando cuidado da beleza adormecida.
+
+231
+00:18:34,031 --> 00:18:36,652
+- Ei! Billy. - Volte.
+
+232
+00:18:36,742 --> 00:18:39,315
+- Vinny! Ei, Vinny! - Vinny?
+
+233
+00:18:39,411 --> 00:18:42,448
+- Vinny Bag O 'Donuts! Como vai você? - Isso é Vinny?
+
+234
+00:18:43,332 --> 00:18:45,408
+Não sei por onde começar.
+
+235
+00:18:45,501 --> 00:18:48,205
+Você já teve algum caso de assassinato antes?
+
+236
+00:18:48,754 --> 00:18:51,624
+- Nenhum. Este será o meu primeiro. - seu primeiro?
+
+237
+00:18:51,715 --> 00:18:53,791
+Sim.
+
+238
+00:18:55,135 --> 00:18:59,429
+Que tipo de casos você teve? Assalto e bateria? Assalto à mão armada?
+
+239
+00:19:01,225 --> 00:19:03,550
+Não.
+
+240
+00:19:04,937 --> 00:19:09,848
+Bem, espero que ele tenha terminado de roubo, Grand Theft Auto, drogas.
+
+241
+00:19:10,317 --> 00:19:13,152
+Não. Nada assim também.
+
+242
+00:19:14,154 --> 00:19:17,523
+Que tipo ... que tipo de lei você pratica?
+
+243
+00:19:17,616 --> 00:19:20,819
+Bem, até agora, uh ... lesão pessoal.
+
+244
+00:19:23,872 --> 00:19:28,618
+Bem ... você é um advogado de julgamento, certo? Quero dizer, julgamentos de lesões pessoais.
+
+245
+00:19:29,670 --> 00:19:33,881
+Bem, na verdade, essa será minha primeira incursão no processo de teste.
+
+246
+00:19:33,966 --> 00:19:38,295
+Ainda não tive que ir ao tribunal. Bata na madeira.
+
+247
+00:19:40,097 --> 00:19:42,173
+Você ainda não teve que ir ao tribunal.
+
+248
+00:19:42,266 --> 00:19:45,682
+- Há quanto tempo você pratica? - Quase seis semanas.
+
+249
+00:19:49,731 --> 00:19:51,689
+Mas...
+
+250
+00:19:51,775 --> 00:19:54,610
+Você se formou seis anos atrás. O que você tem feito?
+
+251
+00:19:54,778 --> 00:19:56,854
+Estudar, para o bar.
+
+252
+00:19:58,198 --> 00:20:00,357
+- Seis anos? - mm-hm.
+
+253
+00:20:00,617 --> 00:20:04,662
+- Isso é muito estudando. - Bem, para ser honesto com você ...
+
+254
+00:20:05,622 --> 00:20:09,323
+... Eu, uh ... eu não passei pela minha primeira vez.
+
+255
+00:20:10,753 --> 00:20:15,130
+- Isso está ok. Você passou pela segunda vez? - Receio que não.
+
+256
+00:20:15,215 --> 00:20:19,165
+- Três vezes um charme? - Não para mim, não é.
+
+257
+00:20:19,261 --> 00:20:22,096
+Não. Para mim, seis vezes foi um encanto.
+
+258
+00:20:25,476 --> 00:20:28,049
+Seis vezes.
+
+259
+00:20:51,668 --> 00:20:53,293
+(o homem limpa a garganta)
+
+260
+00:20:56,882 --> 00:20:59,551
+- Um pouco informal, não estamos? - eu estava descansando ...
+
+261
+00:20:59,635 --> 00:21:02,838
+- Não usando casaco ou gravata. - Oh. Desculpe.
+
+262
+00:21:05,265 --> 00:21:09,974
+Bem, aprovar um advogado de fora do estado é uma questão bastante informal.
+
+263
+00:21:10,062 --> 00:21:13,395
+- Eu só tenho algumas perguntas. - OK. Disparar longe, juiz.
+
+264
+00:21:14,358 --> 00:21:17,359
+- Onde você foi para a faculdade de direito? - Academia de Direito do Brooklyn.
+
+265
+00:21:17,486 --> 00:21:19,858
+- Isso é uma escola de direito credenciada? - Uh...
+
+266
+00:21:24,993 --> 00:21:27,449
+Oh. Sim.
+
+267
+00:21:28,664 --> 00:21:33,242
+- Há quanto tempo você pratica? - Ooh, cerca de seis, uh ...
+
+268
+00:21:33,752 --> 00:21:36,326
+Quase dezesseis anos.
+
+269
+00:21:37,047 --> 00:21:40,831
+- Algum casos de assassinato? - Muitos. Sim.
+
+270
+00:21:40,926 --> 00:21:42,919
+Qual foi o resultado?
+
+271
+00:21:43,011 --> 00:21:45,218
+Hum, você sabe. Ganhe alguns, perca alguns.
+
+272
+00:21:47,975 --> 00:21:51,260
+Este não é o fórum para ser cavalheiresco.
+
+273
+00:21:51,353 --> 00:21:53,809
+Oh, claro. Agora, deixe -me ver.
+
+274
+00:21:53,897 --> 00:21:56,223
+Mais recentemente, tive um assassinato de machado ...
+
+275
+00:21:56,316 --> 00:21:59,104
+... que eu ganhei, com base na insanidade temporária.
+
+276
+00:21:59,194 --> 00:22:01,566
+- Quer ouvir os fatos do caso? - Não.
+
+277
+00:22:01,655 --> 00:22:04,027
+- O que mais? - Deixe-me ver. O que mais?
+
+278
+00:22:04,116 --> 00:22:06,274
+Você já ouviu falar do filho de Sam?
+
+279
+00:22:06,368 --> 00:22:09,286
+O sujeito que recebeu ordens para matar de um cachorro?
+
+280
+00:22:09,371 --> 00:22:13,036
+- Aquele. - Você o defendeu?
+
+281
+00:22:13,125 --> 00:22:16,992
+Bem, não, não exatamente. Eu defendi o primeiro cara que eles prenderam.
+
+282
+00:22:17,713 --> 00:22:21,331
+E ele foi encontrado inocente e libertado ...
+
+283
+00:22:21,425 --> 00:22:24,295
+... E uh ... eles pegaram o cara de verdade.
+
+284
+00:22:26,889 --> 00:22:29,214
+Bem.
+
+285
+00:22:29,308 --> 00:22:32,593
+Não temos assassinos em série no Condado de Beechum.
+
+286
+00:22:32,686 --> 00:22:38,475
+O que temos é o sistema de AJustice tão sofisticado quanto no resto do país.
+
+287
+00:22:38,734 --> 00:22:40,892
+- Tenho certeza. - Você é de Nova York e tudo ...
+
+288
+00:22:40,986 --> 00:22:46,859
+... Pode ter a impressão de que a lei é praticada com um grau de informalidade aqui.
+
+289
+00:22:47,701 --> 00:22:49,860
+- Não é. - Certo.
+
+290
+00:22:49,953 --> 00:22:55,327
+Eu te digo isso porque quero que você saiba que quando se trata de procedimento ...
+
+291
+00:22:55,417 --> 00:22:57,659
+... Eu não sou um homem paciente.
+
+292
+00:22:58,462 --> 00:23:02,791
+Senhor, quando você entra no meu tribunal, você deve conhecer a carta da lei.
+
+293
+00:23:02,883 --> 00:23:05,754
+- Vou reagir com severidade quando você não o fizer. - Você deve.
+
+294
+00:23:05,844 --> 00:23:08,549
+Ser de Nova York não receberá um tratamento especial.
+
+295
+00:23:08,639 --> 00:23:10,715
+Não deveria.
+
+296
+00:23:11,600 --> 00:23:15,812
+Você não vai. Você não terá nenhuma margem de manobra.
+
+297
+00:23:19,399 --> 00:23:20,942
+(Juiz limpa a garganta)
+
+298
+00:23:21,026 --> 00:23:24,691
+Espero que você conheça essas informações quando entrar no meu tribunal.
+
+299
+00:23:24,780 --> 00:23:25,811
+Certo.
+
+300
+00:23:25,906 --> 00:23:29,986
+- Você está disposto a aceitar esses termos? - Certo. Sem problemas.
+
+301
+00:23:32,037 --> 00:23:34,658
+Apenas isso?
+
+302
+00:24:03,277 --> 00:24:06,895
+(* "Stand By Your Man", de Gail Lopata Lennon no rádio)
+
+303
+00:24:20,043 --> 00:24:22,795
+Isso vai ser ótimo. O primeiro caso de Vinny.
+
+304
+00:24:23,797 --> 00:24:26,632
+Então? O que posso fazer para ajudar?
+
+305
+00:24:31,138 --> 00:24:33,629
+- nada? - Não.
+
+306
+00:24:41,940 --> 00:24:44,147
+(Couls Crows)
+
+307
+00:24:46,987 --> 00:24:49,063
+(Whistle Blares)
+
+308
+00:24:50,532 --> 00:24:52,821
+Que porra é essa?
+
+309
+00:25:00,334 --> 00:25:02,825
+(* "Você é realmente meu", de Jimmie Rodgers)
+
+310
+00:25:07,382 --> 00:25:09,790
+Quer sentar no balcão?
+
+311
+00:25:11,553 --> 00:25:14,340
+Ei. Como você está fazendo?
+
+312
+00:25:14,431 --> 00:25:20,600
+Ouça, qual é a história com esse apito incrivelmente, notavelmente alto ...
+
+313
+00:25:20,687 --> 00:25:22,645
+... às 5h30 da manhã?
+
+314
+00:25:23,065 --> 00:25:25,472
+É o apito do vapor.
+
+315
+00:25:25,567 --> 00:25:27,560
+Na serraria.
+
+316
+00:25:27,653 --> 00:25:29,895
+Diga às pessoas que é hora de se levantar.
+
+317
+00:25:29,988 --> 00:25:32,776
+Você pode ouvi -lo por Miles.
+
+318
+00:25:32,908 --> 00:25:35,399
+- Vocês querem algo? - Sim.
+
+319
+00:25:43,210 --> 00:25:45,962
+- Café da manhã? - Você acha?
+
+320
+00:25:47,881 --> 00:25:50,503
+Boa escolha. Dois.
+
+321
+00:25:59,393 --> 00:26:01,599
+Com licença.
+
+322
+00:26:01,687 --> 00:26:06,930
+Vocês aqui embaixo ouvem sobre o problema em andamento do colesterol no país?
+
+323
+00:26:17,453 --> 00:26:20,537
+- O que é isso aqui? - Você nunca ouviu falar de grãos?
+
+324
+00:26:21,540 --> 00:26:23,579
+Claro. Claro, ouvi falar de grãos.
+
+325
+00:26:24,501 --> 00:26:27,336
+Na verdade, eu nunca vi uma coragem antes.
+
+326
+00:26:28,964 --> 00:26:32,131
+- Querida, você vai tentar? - você primeiro.
+
+327
+00:26:36,180 --> 00:26:39,549
+- O que é uma coragem, de qualquer maneira? - É feito de milho.
+
+328
+00:26:39,641 --> 00:26:41,967
+- eles hominy grãos. - Hominy.
+
+329
+00:26:44,146 --> 00:26:46,222
+HM.
+
+330
+00:26:48,859 --> 00:26:52,560
+- Como você cozinha? - Cozinhe em água por 15 ou 20 minutos ...
+
+331
+00:26:52,654 --> 00:26:54,777
+... Coloque -o no prato e adicione manteiga.
+
+332
+00:26:54,865 --> 00:26:56,858
+Então? Você vai comer ou não?
+
+333
+00:27:07,503 --> 00:27:09,661
+(namorada risando)
+
+334
+00:27:26,271 --> 00:27:28,560
+Aqui?
+
+335
+00:27:44,748 --> 00:27:47,951
+- O seu advogado está aqui? - Eu sou o advogado.
+
+336
+00:27:48,043 --> 00:27:52,372
+Oh. Jim Trotter, o terceiro. Procurador Distrital do Condado de Beechum.
+
+337
+00:27:52,464 --> 00:27:56,462
+Vincent La Guardia Gambini. Primeiro. Brooklyn.
+
+338
+00:27:57,594 --> 00:27:59,883
+É bom te ver.
+
+339
+00:28:31,420 --> 00:28:32,962
+Sim.
+
+340
+00:28:36,884 --> 00:28:38,960
+- Vinny. - Ei.
+
+341
+00:28:43,265 --> 00:28:47,179
+Todos se elevam por seu juiz de honra Chamberlain Haller.
+
+342
+00:28:47,269 --> 00:28:50,887
+O Tribunal do Condado de Beechum está agora em sessão.
+
+343
+00:28:53,233 --> 00:28:55,309
+Estar sentado.
+
+344
+00:28:58,322 --> 00:29:02,865
+Primeiro caso. O povo do estado do Alabama versus William Robert Gambini ...
+
+345
+00:29:02,951 --> 00:29:05,240
+... e Stanley Marcus Rothenstein.
+
+346
+00:29:05,412 --> 00:29:07,784
+- "Steen." Ela me chamou de "Stine". - Apenas...
+
+347
+00:29:08,290 --> 00:29:12,952
+Conselheiro, seus clientes são acusados ​​de assassinato em primeiro grau. Como eles imploram?
+
+348
+00:29:13,045 --> 00:29:17,506
+- Sua honra, meus clientes ... - Não fale comigo sentado naquela cadeira.
+
+349
+00:29:20,385 --> 00:29:24,929
+- Mas ele me disse para sentar aqui. - Quando você se dirige a este Tribunal, você se levantará ...
+
+350
+00:29:25,015 --> 00:29:28,182
+... e fale comigo em uma voz clara e inteligível.
+
+351
+00:29:29,978 --> 00:29:33,679
+- Desculpe. Meus clientes ... - O que você está vestindo?
+
+352
+00:29:35,359 --> 00:29:36,734
+Huh?
+
+353
+00:29:36,819 --> 00:29:41,315
+- O que você está vestindo? - Eu estou vestindo, uh ... roupas.
+
+354
+00:29:43,700 --> 00:29:46,191
+Eu não entendo a pergunta.
+
+355
+00:29:47,121 --> 00:29:50,075
+Quando você entra na minha quadra, parecendo que você faz ...
+
+356
+00:29:50,165 --> 00:29:54,874
+... Você não apenas me insulta, mas insulta a integridade deste Tribunal.
+
+357
+00:29:59,049 --> 00:30:02,133
+Peço desculpas, senhor, mas é assim que me visto.
+
+358
+00:30:02,219 --> 00:30:06,466
+Da próxima vez que você entrar no meu tribunal, você parecerá advogado.
+
+359
+00:30:07,141 --> 00:30:09,976
+Quero dizer, você penteia o cabelo e usa terno e gravata.
+
+360
+00:30:10,060 --> 00:30:15,647
+E é melhor que seja feito algum tipo de ... pano.
+
+361
+00:30:15,732 --> 00:30:19,944
+- Você me entende? - Uh, sim. Tudo bem, juiz. Multar.
+
+362
+00:30:20,028 --> 00:30:23,444
+Bom. Você pode continuar. Como seus clientes pedem?
+
+363
+00:30:23,949 --> 00:30:27,199
+Meus clientes são pegos completamente de surpresa.
+
+364
+00:30:27,703 --> 00:30:32,448
+Eles pensaram que estavam sendo presos por furtar uma lata de atum.
+
+365
+00:30:32,666 --> 00:30:35,418
+O que você está me dizendo? Que eles se declaram inocentes?
+
+366
+00:30:35,502 --> 00:30:39,915
+- Não. Estou apenas tentando explicar. - Não quero ouvir explicações.
+
+367
+00:30:40,591 --> 00:30:43,129
+O estado do Alabama tem seu procedimento.
+
+368
+00:30:43,385 --> 00:30:48,546
+E esse procedimento, neste momento, é ter uma acusação. Estamos claros sobre isso?
+
+369
+00:30:48,640 --> 00:30:52,685
+Sim. Mas parece haver muita confusão aqui.
+
+370
+00:30:53,145 --> 00:30:55,303
+- Sr. Gambini. - Veja, meus clientes ...
+
+371
+00:30:55,397 --> 00:30:57,473
+Sr. Gambini.
+
+372
+00:30:59,902 --> 00:31:01,894
+Todo o caminho?
+
+373
+00:31:04,198 --> 00:31:08,575
+Tudo o que peço a você é uma resposta muito simples para uma pergunta muito simples.
+
+374
+00:31:08,744 --> 00:31:12,279
+Há apenas duas maneiras de responder: "culpado" ou "não culpado".
+
+375
+00:31:13,707 --> 00:31:15,664
+Mas meus clientes não fizeram nada.
+
+376
+00:31:15,793 --> 00:31:20,834
+Mais uma vez, o processo de comunicação quebrou.
+
+377
+00:31:21,799 --> 00:31:25,748
+Parece -me que você quer pular o processo de acusação ...
+
+378
+00:31:26,053 --> 00:31:30,181
+... Vá diretamente para julgamento, pule isso e receba uma demissão.
+
+379
+00:31:30,265 --> 00:31:32,341
+(rindo)
+
+380
+00:31:33,393 --> 00:31:38,269
+Bem, não estou prestes a renovar todo o processo judicial ...
+
+381
+00:31:38,357 --> 00:31:42,401
+... só porque você se encontra na posição única ...
+
+382
+00:31:42,486 --> 00:31:46,021
+... de defender clientes que dizem que não fizeram isso.
+
+383
+00:31:46,115 --> 00:31:51,156
+Agora ... as próximas palavras da sua boca serão "culpadas" ou "não culpadas".
+
+384
+00:31:51,245 --> 00:31:54,696
+Não quero ouvir comentários, argumentos ou opinião.
+
+385
+00:31:55,666 --> 00:31:59,616
+Se eu ouvir algo que não seja "culpado" ou "não culpado" ...
+
+386
+00:31:59,711 --> 00:32:01,669
+... você estará desprezando.
+
+387
+00:32:01,839 --> 00:32:04,793
+Eu nem quero ouvir você limpar sua garganta.
+
+388
+00:32:06,427 --> 00:32:08,585
+Espero ter sido claro.
+
+389
+00:32:08,679 --> 00:32:14,302
+Agora ... como seus clientes defendem?
+
+390
+00:32:14,601 --> 00:32:16,927
+Eu acho que entendi o ponto.
+
+391
+00:32:17,020 --> 00:32:19,594
+Não. Eu não acho que você faça.
+
+392
+00:32:20,441 --> 00:32:22,599
+Agora você está desprezando o tribunal.
+
+393
+00:32:24,111 --> 00:32:27,361
+- Você irá para duas acusações de desprezo? - Não culpado.
+
+394
+00:32:28,115 --> 00:32:29,989
+Obrigado.
+
+395
+00:32:30,367 --> 00:32:33,451
+- A fiança será fixada em US $ 200.000. - (atinge o martelo)
+
+396
+00:32:33,704 --> 00:32:37,951
+A audiência preliminar será marcada para as 9h30 amanhã de manhã.
+
+397
+00:32:38,459 --> 00:32:43,998
+Jaxiliff, por favor, leve o Sr. Gambini sob custódia. Sua fiança será fixada em US $ 200.
+
+398
+00:32:45,090 --> 00:32:47,166
+Venha comigo, por favor.
+
+399
+00:32:48,385 --> 00:32:50,959
+Todos se elevam quando o juiz sai.
+
+400
+00:32:53,599 --> 00:32:57,098
+Você tem que me salvar. Você sabe disso, certo?
+
+401
+00:32:59,354 --> 00:33:01,430
+(Whistles Tune)
+
+402
+00:33:12,785 --> 00:33:14,492
+(prisioneiros gritando)
+
+403
+00:33:14,578 --> 00:33:16,654
+Vamos.
+
+404
+00:33:32,888 --> 00:33:35,842
+Eles vão destruir esse cara Norton neste fim de semana.
+
+405
+00:33:35,933 --> 00:33:38,091
+Parece isso.
+
+406
+00:33:38,185 --> 00:33:41,720
+Você tem uma enorme responsabilidade, assumindo esse caso de assassinato.
+
+407
+00:33:41,814 --> 00:33:44,221
+Você estraga tudo e esses meninos ficam fritos.
+
+408
+00:33:44,316 --> 00:33:46,273
+Eu sei.
+
+409
+00:33:46,360 --> 00:33:50,986
+- Então você acha que sabe o que está fazendo? - Sim, acho que sei o que estou fazendo.
+
+410
+00:33:51,073 --> 00:33:56,198
+Você não parecia que sabia o que estava fazendo hoje naquele tribunal. Por que é que?
+
+411
+00:33:56,286 --> 00:34:00,236
+Bem, é muito procedimento, só isso. Vou aprender enquanto vou.
+
+412
+00:34:00,332 --> 00:34:02,325
+- Aprenda à medida que avança? - Yeah, yeah.
+
+413
+00:34:02,418 --> 00:34:05,786
+- Eles não ensinaram isso na faculdade de direito? - Não, eles não.
+
+414
+00:34:05,921 --> 00:34:10,133
+Eles ensinam contratos, precedência, interpretações.
+
+415
+00:34:10,217 --> 00:34:13,503
+Então a empresa que contrata você, eles ensinam procedimentos.
+
+416
+00:34:13,595 --> 00:34:19,100
+- Ou você pode ir ao tribunal e assistir. - Então, por que você não vai ao tribunal e assiste?
+
+417
+00:34:19,184 --> 00:34:23,893
+Porque, entre a garagem de seu pai e as noites de trabalho, quando eu deveria ir?
+
+418
+00:34:23,981 --> 00:34:27,563
+Eu pensei neste verão que tiraria alguns meses.
+
+419
+00:34:27,651 --> 00:34:30,272
+Mas não é grande coisa.
+
+420
+00:34:30,362 --> 00:34:33,398
+- Tem certeza? - Sim, tenho certeza.
+
+421
+00:34:35,242 --> 00:34:39,322
+Como você pode ter tanta certeza de quando não sabe o que deve saber?
+
+422
+00:34:39,413 --> 00:34:43,660
+É um procedimento. Como a reconstrução de um carburador tem um procedimento.
+
+423
+00:34:43,751 --> 00:34:48,709
+Você sabe como a primeira coisa que você faz é tirar o carburador do coletor?
+
+424
+00:34:48,797 --> 00:34:54,337
+Suponha que você pule a primeira etapa e, ao substituir um dos jatos, você solta o jato.
+
+425
+00:34:54,428 --> 00:34:58,295
+Ele desce, rola ao longo do coletor e na cabeça. Você está fodido.
+
+426
+00:34:58,390 --> 00:35:02,174
+Você aprendeu da maneira mais difícil que precisa remover o carburador primeiro.
+
+427
+00:35:02,269 --> 00:35:05,223
+Foi o que aconteceu comigo hoje. Eu aprendi da maneira mais difícil.
+
+428
+00:35:05,314 --> 00:35:08,350
+Na verdade, foi uma boa experiência de aprendizado para mim.
+
+429
+00:35:08,442 --> 00:35:12,771
+Tudo bem. Bem, existe alguma maneira de ajudar nessa situação de procedimento?
+
+430
+00:35:12,863 --> 00:35:14,939
+Sim. Continue me salvando.
+
+431
+00:35:15,783 --> 00:35:20,279
+Não podemos dar ao luxo de continuar a salvando. Recomei pela metade dos cheques do viajante.
+
+432
+00:35:20,370 --> 00:35:23,621
+Eu não queria dinheiro, mas não queria saltar um cheque.
+
+433
+00:35:23,707 --> 00:35:26,874
+Eu tentei apertar o dinheiro, mas fiquei rígido, então desconectei ...
+
+434
+00:35:26,960 --> 00:35:31,207
+Whoa, whoa. O que você quer dizer, você ficou rígido? Você disse que ficou rígido?
+
+435
+00:35:48,357 --> 00:35:52,651
+(* "Mantenha isso para si mesmo", de BB Chung King e as cabeças de Buddah gritando)
+
+436
+00:35:57,991 --> 00:36:00,067
+(A música está desligada)
+
+437
+00:36:22,641 --> 00:36:25,132
+Ei. Vincent La Guardia Gambini.
+
+438
+00:36:27,146 --> 00:36:29,518
+- O nome dele é JT. - jt.
+
+439
+00:36:30,232 --> 00:36:34,277
+Eu acredito que você e Lisa jogaram um jogo de piscina por US $ 200, que ela ganhou.
+
+440
+00:36:34,361 --> 00:36:36,733
+Estou aqui para coletar.
+
+441
+00:36:36,989 --> 00:36:40,322
+- Que tal se eu apenas chutar sua bunda? - Oh, uma contra -oferta?
+
+442
+00:36:40,409 --> 00:36:45,118
+É isso que nós, advogados - sou advogado - nós, advogados, chamamos isso de "contra -oferta".
+
+443
+00:36:45,914 --> 00:36:48,203
+Deixe-me ver. Esta é uma decisão difícil.
+
+444
+00:36:48,459 --> 00:36:50,950
+Pegue minha bunda chutada ou colete US $ 200?
+
+445
+00:36:51,044 --> 00:36:53,037
+HM. O que você acha?
+
+446
+00:36:53,130 --> 00:36:57,673
+Eu poderia usar uma boa bunda chutando, serei muito honesto com você.
+
+447
+00:36:59,636 --> 00:37:02,970
+- Nah, acho que vou apenas ir com os 200. - (risadas)
+
+448
+00:37:07,227 --> 00:37:09,303
+Sobre meu cadáver.
+
+449
+00:37:09,396 --> 00:37:12,231
+Você gosta de renegociar à medida que avança, hein?
+
+450
+00:37:12,316 --> 00:37:15,186
+OK, então. Aqui está o meu contra -buscador.
+
+451
+00:37:16,069 --> 00:37:20,696
+Eu tenho que te matar? E se eu fosse apenas para chutar a merda de Everlovin por você?
+
+452
+00:37:21,450 --> 00:37:24,783
+- em seus sonhos. - Não, não, não. Na realidade.
+
+453
+00:37:24,870 --> 00:37:28,405
+Se eu fosse para chutar a merda de você, pego o dinheiro?
+
+454
+00:37:33,200 --> 00:37:35,525
+- Se você chutou a merda de mim? - Sim.
+
+455
+00:37:35,619 --> 00:37:38,192
+Sim, então você recebe o dinheiro.
+
+456
+00:37:40,374 --> 00:37:43,956
+- O que aconteceu? Traseira? - Não, eu caí.
+
+457
+00:37:44,211 --> 00:37:45,871
+Oh.
+
+458
+00:37:45,963 --> 00:37:48,999
+OK. Vamos ver se concordamos com os termos.
+
+459
+00:37:49,091 --> 00:37:52,257
+A escolha agora é que eu chutava minha bunda ...
+
+460
+00:37:52,344 --> 00:37:57,136
+... ou, opção B, eu chuta sua bunda e coleciono os 200.
+
+461
+00:38:00,018 --> 00:38:03,802
+Vou com a opção B. Chutando sua bunda e coletando US $ 200.
+
+462
+00:38:03,897 --> 00:38:05,890
+(risada)
+
+463
+00:38:05,983 --> 00:38:09,517
+- Vamos lutar agora? - Sim. Primeiro, deixe -me ver o dinheiro.
+
+464
+00:38:09,611 --> 00:38:12,814
+- Eu tenho o dinheiro. - Tudo bem. Deixe -me ver isso. Mostre para mim.
+
+465
+00:38:14,199 --> 00:38:17,070
+- Eu posso obtê -lo. - Você pode obtê -lo?
+
+466
+00:38:17,160 --> 00:38:19,153
+Tudo bem. Pegue.
+
+467
+00:38:19,246 --> 00:38:21,285
+E então vamos lutar.
+
+468
+00:38:26,712 --> 00:38:29,000
+Você caiu em seu lugar ou em outra pessoa?
+
+469
+00:38:29,089 --> 00:38:31,580
+- meu lugar. - merda.
+
+470
+00:38:35,304 --> 00:38:38,258
+Ele soprou a acusação! É um procedimento simples.
+
+471
+00:38:38,348 --> 00:38:42,263
+Você ouviu o juiz. Tudo o que ele precisava fazer era dizer "culpado" ou "não culpado".
+
+472
+00:38:42,436 --> 00:38:44,512
+Então? O que você está dizendo?
+
+473
+00:38:45,022 --> 00:38:50,264
+O que estou dizendo? Você viu o que aconteceu lá. Você quer ficar com ele depois disso?
+
+474
+00:38:50,360 --> 00:38:52,768
+Merda, Stan. Eu não quero demiti -lo.
+
+475
+00:38:52,863 --> 00:38:56,445
+Ele é família. E minha mãe, a maneira como a saúde dela está agora ...
+
+476
+00:38:58,118 --> 00:39:01,072
+Eu aprecio isso. Mas você deveria morrer por isso?
+
+477
+00:39:01,163 --> 00:39:04,448
+Sua mãe não ficaria mais chateada se você morrer?
+
+478
+00:39:04,541 --> 00:39:07,957
+O problema é que, dada a chance, acho que ele poderia fazer um bom trabalho.
+
+479
+00:39:08,170 --> 00:39:12,037
+- Não, você está errado. - Vamos lá, caras, bata. Vamos.
+
+480
+00:39:14,092 --> 00:39:17,010
+Stan, ouça. Você tem que ver os gambinis em ação.
+
+481
+00:39:17,095 --> 00:39:20,429
+Essas pessoas, elas adoram discutir. Quero dizer, eles vivem para discutir.
+
+482
+00:39:20,515 --> 00:39:23,185
+Meus pais argumentam também - isso não os torna advogados.
+
+483
+00:39:23,268 --> 00:39:27,136
+Stan, eu vi seus pais discutirem. Confie em mim, eles são amadores.
+
+484
+00:39:31,526 --> 00:39:32,985
+(gotejamentos de água)
+
+485
+00:39:37,240 --> 00:39:40,823
+- Isso é um gotejamento que ouço? - (pingos de água)
+
+486
+00:39:40,911 --> 00:39:42,987
+Sim.
+
+487
+00:39:44,039 --> 00:39:46,826
+Você não foi o último a usar o banheiro?
+
+488
+00:39:46,917 --> 00:39:48,541
+Então?
+
+489
+00:39:48,627 --> 00:39:51,462
+- Você usou a torneira? - Sim.
+
+490
+00:39:52,673 --> 00:39:55,460
+- Então por que você não desligou? - Eu desliguei.
+
+491
+00:39:55,676 --> 00:39:59,127
+Bem, se você desligou, por que estou ouvindo?
+
+492
+00:39:59,221 --> 00:40:02,886
+Ocorreu a você que poderia ser desligado e pingar ao mesmo tempo?
+
+493
+00:40:02,975 --> 00:40:05,300
+Não. Se você desligasse, não iria pingar.
+
+494
+00:40:05,394 --> 00:40:09,308
+- Talvez esteja quebrado. - É isso que você está dizendo? Está quebrado?
+
+495
+00:40:09,398 --> 00:40:11,723
+Sim, é isso. Está quebrado.
+
+496
+00:40:13,860 --> 00:40:18,238
+- Tem certeza que? - Estou positivo.
+
+497
+00:40:19,616 --> 00:40:24,611
+- Talvez você não tenha torcido o suficiente? - Eu torci justo certo.
+
+498
+00:40:24,955 --> 00:40:27,493
+Como você pode ter tanta certeza?
+
+499
+00:40:29,376 --> 00:40:34,168
+Se você olhar no manual, verá que esta torneira de modelo em particular ...
+
+500
+00:40:34,256 --> 00:40:37,839
+... requer um alcance de 10 a 16 libras de torque.
+
+501
+00:40:37,926 --> 00:40:41,046
+Eu tiro rotineiramente para o torquimento máximo-arborável.
+
+502
+00:40:41,305 --> 00:40:44,638
+Como você pode ter certeza de que usou 16 libras de torque?
+
+503
+00:40:44,725 --> 00:40:49,766
+Porque eu usei uma edição do Laboratório Modelo 1019 do Craftsman ...
+
+504
+00:40:49,855 --> 00:40:52,310
+... Chave de torque da série Signature.
+
+505
+00:40:52,399 --> 00:40:55,815
+O tipo usado pelos físicos de alta energia da Caltech ...
+
+506
+00:40:55,902 --> 00:40:58,358
+... e engenheiros da NASA.
+
+507
+00:40:58,447 --> 00:41:03,192
+Bem, nesse caso, como você pode ter certeza de que isso é preciso?
+
+508
+00:41:03,285 --> 00:41:07,994
+Porque uma fração de segundo antes da chave de torque ser aplicada à alça da torneira ...
+
+509
+00:41:08,081 --> 00:41:10,786
+... foi calibrado pelos principais membros ...
+
+510
+00:41:10,876 --> 00:41:15,253
+... do Departamento Estadual e Federal de Pesos e Medidas ...
+
+511
+00:41:15,339 --> 00:41:17,794
+... Ser bolas mortas com precisão.
+
+512
+00:41:19,092 --> 00:41:21,844
+Aqui está um certificado de validação.
+
+513
+00:41:25,599 --> 00:41:28,469
+Bolas mortas precisas?
+
+514
+00:41:28,560 --> 00:41:30,885
+É um termo da indústria.
+
+515
+00:41:36,652 --> 00:41:39,189
+Eu acho que a coisa da porra está quebrada.
+
+516
+00:41:50,082 --> 00:41:52,158
+(Whistle Blares)
+
+517
+00:41:55,754 --> 00:41:57,912
+Temos que nos mover.
+
+518
+00:41:58,799 --> 00:42:02,748
+(Mulher) Então ouvi duas franjas altas, como fogos de artifício.
+
+519
+00:42:03,095 --> 00:42:07,922
+Eu olhei para cima e vi dois jovens correndo correndo dos sac-o-suds ...
+
+520
+00:42:08,016 --> 00:42:13,224
+... e pule em um carro verde com um top branco conversível ...
+
+521
+00:42:13,313 --> 00:42:15,769
+... e saia como os Dickens.
+
+522
+00:42:16,149 --> 00:42:19,649
+Miss Riley, esses dois jovens estão presentes no tribunal?
+
+523
+00:42:19,736 --> 00:42:23,651
+- Sim, senhor. Eles são. - Você poderia apontar para mim, por favor?
+
+524
+00:42:23,740 --> 00:42:26,029
+Eles sentaram ali.
+
+525
+00:42:27,703 --> 00:42:32,281
+Mm-hm. Agora, uh ... Sra. Riley, esse é o carro?
+
+526
+00:42:33,750 --> 00:42:36,502
+- Sim, senhor. Isso é. - Obrigado, senhora.
+
+527
+00:42:37,629 --> 00:42:42,457
+Deixe os registros mostrarem que a Sra. Constance Riley identificou o carro dos réus.
+
+528
+00:42:44,052 --> 00:42:46,341
+Eu estava fazendo meu café da manhã.
+
+529
+00:42:47,389 --> 00:42:50,260
+Eu os vi dois meninos entrando na loja.
+
+530
+00:42:51,518 --> 00:42:53,843
+Depois, ouvi um tiro.
+
+531
+00:42:55,939 --> 00:42:58,146
+Olhou pela janela.
+
+532
+00:42:58,233 --> 00:43:02,017
+Eles estavam acabando. Entrou no carro e parti.
+
+533
+00:43:02,112 --> 00:43:04,437
+É este o carro?
+
+534
+00:43:07,159 --> 00:43:10,243
+(testemunha) Sim. Isso é.
+
+535
+00:43:10,329 --> 00:43:12,701
+Obrigado, senhor.
+
+536
+00:43:19,338 --> 00:43:24,545
+Então você viu aqueles dois meninos acabarem com os Sac-o-Suds, pular neste carro e decolar?
+
+537
+00:43:24,635 --> 00:43:27,671
+Sim. Eles se afastaram. O carro estava por toda a estrada.
+
+538
+00:43:27,763 --> 00:43:29,839
+Obrigado, senhor.
+
+539
+00:43:30,349 --> 00:43:34,975
+Perguntei se ele fez isso, e ele disse: "Eu atirei no funcionário".
+
+540
+00:43:35,937 --> 00:43:40,849
+Eu perguntei a ele novamente e, novamente, ele disse: "Eu atirei no funcionário".
+
+541
+00:43:42,152 --> 00:43:44,477
+Sua honra, sem mais perguntas.
+
+542
+00:43:46,448 --> 00:43:48,654
+- Sr. Gambini. - Sim.
+
+543
+00:43:48,951 --> 00:43:52,450
+- Você tem algo a acrescentar? - Coisa? Que coisa?
+
+544
+00:43:53,580 --> 00:43:55,905
+Não para eu dizer.
+
+545
+00:43:55,999 --> 00:43:58,490
+Não, senhor.
+
+546
+00:44:00,879 --> 00:44:02,955
+Você pode se deparar.
+
+547
+00:44:03,590 --> 00:44:07,504
+- Você tem outras testemunhas? - Não, sua honra.
+
+548
+00:44:07,594 --> 00:44:12,055
+O Tribunal considera evidências suficientes para que esse assunto seja julgado.
+
+549
+00:44:12,140 --> 00:44:16,802
+Estou definindo este assunto para julgamento nesta segunda -feira, 2 de fevereiro, 10h.
+
+550
+00:44:20,899 --> 00:44:23,141
+Sr. Gambini.
+
+551
+00:44:23,318 --> 00:44:25,394
+Ficar de pé.
+
+552
+00:44:30,492 --> 00:44:36,328
+Agora, eu não te disse da próxima vez que você apareceu na minha sala de tribunal que você se veste adequadamente?
+
+553
+00:44:36,415 --> 00:44:38,822
+Você estava falando sério sobre isso?
+
+554
+00:44:43,714 --> 00:44:48,874
+- Por que você não fez nenhuma pergunta? - Questões? Perguntar quem perguntas?
+
+555
+00:44:50,095 --> 00:44:52,764
+Você sabia que poderia fazer perguntas. Você não, Vin?
+
+556
+00:44:52,848 --> 00:44:56,299
+Se você tivesse uma briga, poderia ter conseguido o caso jogado fora.
+
+557
+00:44:56,393 --> 00:45:00,141
+Ei, Stan. Você está em Ala-Fuckin'-Bama.
+
+558
+00:45:00,981 --> 00:45:05,061
+Você vem de Nova York. Você matou um bom garoto velho.
+
+559
+00:45:05,152 --> 00:45:08,402
+Não há como isso não será julgado.
+
+560
+00:45:11,700 --> 00:45:15,947
+O que diabos está acontecendo aqui, Vinny? Você está fodendo este caso ou o quê?
+
+561
+00:45:16,038 --> 00:45:19,323
+Eu te disse. É apenas procedimento. Estou obrigado a estragar um pouco.
+
+562
+00:45:19,416 --> 00:45:22,287
+Um pouco? Você foi jogado na prisão! Duas vezes.
+
+563
+00:45:22,377 --> 00:45:26,671
+Ei. Eu sei que estava na prisão. Eu não preciso que você me aponte, ok?
+
+564
+00:45:27,674 --> 00:45:30,794
+Você é meu noivo. Você deveria apoiar seu homem.
+
+565
+00:45:30,886 --> 00:45:34,504
+Você sabe, me incentive um pouco. Um pouco de incentivo.
+
+566
+00:45:34,598 --> 00:45:39,141
+É isso que você quer? Desculpe. Você foi maravilhoso lá.
+
+567
+00:45:39,227 --> 00:45:44,470
+Do jeito que você lidou com isso JUSCE ... Ohh, você é um falador suave. Você é!
+
+568
+00:45:44,566 --> 00:45:47,437
+Tudo bem, bata. Bata.
+
+569
+00:45:47,527 --> 00:45:49,769
+Você acha que eu gosto de me foder? É isso?
+
+570
+00:45:49,863 --> 00:45:54,324
+Você não vai me dar um ótimo conhecimento espontâneo.
+
+571
+00:45:54,451 --> 00:45:57,286
+- Sim? - Então cale -o.
+
+572
+00:46:22,229 --> 00:46:24,898
+- Você fez a leitura? - Sim.
+
+573
+00:46:27,150 --> 00:46:29,226
+Você quer ir para a cama?
+
+574
+00:46:30,988 --> 00:46:34,357
+Não sei. Eu não me sinto bem.
+
+575
+00:46:34,449 --> 00:46:38,613
+Você não deve se sentir bem. Você não dormiu muito em três dias.
+
+576
+00:46:39,788 --> 00:46:44,249
+Isso faz parte disso. Você sabe o que é?
+
+577
+00:46:51,717 --> 00:46:55,880
+Estou ... estou com muito medo.
+
+578
+00:46:57,639 --> 00:46:59,715
+Você deveria ser.
+
+579
+00:47:01,435 --> 00:47:04,104
+Como diabos eu entrei nessa merda?
+
+580
+00:47:04,813 --> 00:47:07,600
+"Oh, claro. Não há problema. Eu poderia vencer o caso."
+
+581
+00:47:08,317 --> 00:47:11,104
+Eu já fui enviado para a prisão duas vezes.
+
+582
+00:47:12,487 --> 00:47:14,978
+Eu poderia ganhar essa coisa, no entanto. Eu sei que poderia.
+
+583
+00:47:15,073 --> 00:47:18,608
+Se eu pudesse manter minha bunda acordada e ultrapassar o tempo suficiente, aposta que eu poderia, hein?
+
+584
+00:47:18,702 --> 00:47:20,991
+Você sabe o que eu penso? Honestamente?
+
+585
+00:47:22,247 --> 00:47:26,079
+Eu acho que quando você está lá fora e você está fazendo sua coisa ...
+
+586
+00:47:26,168 --> 00:47:28,706
+... Eu acho que você vai ser realmente ótimo.
+
+587
+00:47:30,505 --> 00:47:32,581
+Muito bom.
+
+588
+00:47:38,680 --> 00:47:40,554
+LF ...
+
+589
+00:47:40,641 --> 00:47:42,717
+... você não foda tudo.
+
+590
+00:47:46,897 --> 00:47:49,139
+(Couls Crows)
+
+591
+00:47:50,400 --> 00:47:52,891
+(porcos gritando)
+
+592
+00:48:22,933 --> 00:48:27,346
+Se isso fosse uma conspiração, eles teriam que fazer com que todas essas pessoas mentissem.
+
+593
+00:48:29,106 --> 00:48:31,597
+Você acha que é o que está acontecendo?
+
+594
+00:48:33,110 --> 00:48:38,151
+Olha, acho que devemos nos encontrar com o defensor público. Veja como ele é.
+
+595
+00:48:38,240 --> 00:48:41,276
+Se ele é honesto, então devemos ir com ele.
+
+596
+00:48:45,122 --> 00:48:47,198
+Tudo bem.
+
+597
+00:48:52,713 --> 00:48:57,042
+- Isso é o corredor da morte lá. - Isso é?
+
+598
+00:48:57,134 --> 00:48:59,257
+A cadeira não está funcionando como costumava fazer.
+
+599
+00:48:59,344 --> 00:49:04,635
+O cara que frivamos na semana passada - levou três tentativas e sua cabeça pegou fogo.
+
+600
+00:49:04,725 --> 00:49:07,429
+Veja, não há dinheiro no orçamento para obtê -lo.
+
+601
+00:49:07,519 --> 00:49:12,228
+Eu digo que seria mais barato consertá -lo do que continuar subindo as contas elétricas extras.
+
+602
+00:49:23,660 --> 00:49:25,902
+Oi, Stanley.
+
+603
+00:49:25,996 --> 00:49:28,368
+Meu nome é John Gibbons ...
+
+604
+00:49:28,457 --> 00:49:31,742
+... E eu sou advogado no escritório do defensor público.
+
+605
+00:49:31,835 --> 00:49:33,911
+- Oi John. - Ei.
+
+606
+00:49:35,589 --> 00:49:39,669
+Agora, as evidências contra você são muito fortes, então, hum ...
+
+607
+00:49:40,677 --> 00:49:44,509
+... Por que você não me conta o seu lado da história?
+
+608
+00:49:55,734 --> 00:49:58,225
+- Ei, Vin. - Ei, Billy.
+
+609
+00:49:58,320 --> 00:49:59,980
+Como está você?
+
+610
+00:50:00,072 --> 00:50:01,981
+- Como você está se sentindo? OK? - Tudo bem.
+
+611
+00:50:02,074 --> 00:50:05,443
+- Onde está Stan? - Uh, Stan, ele não está chegando.
+
+612
+00:50:08,330 --> 00:50:10,702
+Ele é, hum ...
+
+613
+00:50:10,791 --> 00:50:13,994
+Bem, ele quer ir com o defensor público.
+
+614
+00:50:19,549 --> 00:50:21,625
+Ouça, Vin ...
+
+615
+00:50:23,345 --> 00:50:26,215
+Também vou com o defensor público.
+
+616
+00:50:26,306 --> 00:50:31,680
+Desculpe. Sinto muito, eu simplesmente não sabia a pouca experiência que você tem com isso.
+
+617
+00:50:32,938 --> 00:50:37,600
+- O quê, você está com medo? - Sim, estou com medo.
+
+618
+00:50:37,693 --> 00:50:41,275
+Talvez eu pudesse ter lidado com o preliminar um pouco melhor.
+
+619
+00:50:41,363 --> 00:50:43,936
+Mas o mais importante é vencer o caso.
+
+620
+00:50:44,032 --> 00:50:46,488
+Eu poderia fazer isso. Eu realmente poderia.
+
+621
+00:50:47,452 --> 00:50:49,362
+Deixe -me dizer como, ok?
+
+622
+00:50:49,454 --> 00:50:53,832
+O promotor precisa construir um caso. Construir um estojo é como construir uma casa.
+
+623
+00:50:53,917 --> 00:50:56,539
+Cada peça de evidência é um bloco de construção.
+
+624
+00:50:56,628 --> 00:50:59,036
+Ele quer fazer um bunker de tijolos de um prédio.
+
+625
+00:50:59,131 --> 00:51:04,089
+Ele quer usar tijolos sérios e sólidos, como esses, certo?
+
+626
+00:51:04,177 --> 00:51:06,799
+- Certo. - Deixe -me mostrar algo a você.
+
+627
+00:51:11,310 --> 00:51:15,888
+Ele vai te mostrar os tijolos. Ele vai mostrar a você que eles ficaram lados retos.
+
+628
+00:51:15,981 --> 00:51:18,353
+Ele mostrará como eles tiveram a forma certa.
+
+629
+00:51:18,442 --> 00:51:21,396
+Ele vai mostrar a você de uma maneira muito especial ...
+
+630
+00:51:21,486 --> 00:51:24,690
+... para que eles pareçam ter tudo o que um tijolo deveria ter.
+
+631
+00:51:24,781 --> 00:51:27,272
+Mas há uma coisa que ele não vai te mostrar.
+
+632
+00:51:27,367 --> 00:51:31,780
+Quando você olha para os tijolos no ângulo reto, eles são tão magros quanto esta carta de jogo.
+
+633
+00:51:31,872 --> 00:51:35,952
+Todo o seu caso é uma ilusão, um truque de mágica.
+
+634
+00:51:36,043 --> 00:51:39,708
+Tem que ser uma ilusão, porque você é inocente.
+
+635
+00:51:41,173 --> 00:51:47,887
+Ninguém, eu quero dizer ninguém, puxa a lã sobre os olhos de um gambini. Especialmente este.
+
+636
+00:51:48,889 --> 00:51:52,472
+Dê -me a chance. Uma chance.
+
+637
+00:51:52,559 --> 00:51:54,635
+Deixe -me questionar a primeira testemunha.
+
+638
+00:51:54,728 --> 00:51:59,853
+Se, depois desse ponto, você não acha que eu sou o melhor homem para o trabalho, me demitir então.
+
+639
+00:51:59,941 --> 00:52:02,433
+Vou sair em silêncio. Sem ressentimentos.
+
+640
+00:52:02,611 --> 00:52:05,018
+Tudo o que peço é essa chance.
+
+641
+00:52:06,782 --> 00:52:09,699
+Eu acho que você deveria me dar.
+
+642
+00:52:11,787 --> 00:52:16,449
+Você deveria dar a ele? O que ele era antes de ser advogado? Um comediante de merda?
+
+643
+00:52:16,541 --> 00:52:19,708
+Se ele não fizer as perguntas certas, seu advogado o fará.
+
+644
+00:52:19,795 --> 00:52:22,037
+Não, ele ainda pode foder as coisas.
+
+645
+00:52:22,130 --> 00:52:26,258
+O interrogatório é saber o que dizer e o que não dizer.
+
+646
+00:52:26,343 --> 00:52:30,720
+Digamos que ele faça todas as perguntas possíveis, e a testemunha tem todas as respostas.
+
+647
+00:52:30,806 --> 00:52:33,925
+Ele acaba provando o caso da promotoria!
+
+648
+00:52:35,352 --> 00:52:37,677
+Como ele já o convenceu a isso?
+
+649
+00:52:42,067 --> 00:52:46,147
+No casamento do meu primo Ruthie, o irmão do noivo era aquele cara Ali Kazam.
+
+650
+00:52:46,238 --> 00:52:50,152
+- Você sabe de quem estou falando? - O mágico com o rabo de cavalo?
+
+651
+00:52:50,242 --> 00:52:54,904
+Certo. Ele agiu, e toda vez que fazia algo desaparecer, Vinny pulou nele.
+
+652
+00:52:54,997 --> 00:52:58,615
+Ele o pregou. Era como "está no bolso" ou "ele está palmando".
+
+653
+00:52:58,709 --> 00:53:00,832
+Ou "Há um espelho debaixo da mesa".
+
+654
+00:53:01,003 --> 00:53:05,332
+Ele era como "Espere. Ele se juntou ao meio e há uma mola ao redor".
+
+655
+00:53:05,424 --> 00:53:08,128
+"Ele abre quando está dentro do tubo."
+
+656
+00:53:08,218 --> 00:53:11,504
+Era como o pior pesadelo de Ali Kazam.
+
+657
+00:53:12,222 --> 00:53:14,298
+Mas ele estava apenas sendo Vinny.
+
+658
+00:53:14,391 --> 00:53:17,641
+Ele estava apenas sendo o Gambini por excelência.
+
+659
+00:53:28,155 --> 00:53:31,109
+Lá se vai o Norton por excelência.
+
+660
+00:53:34,870 --> 00:53:36,946
+Lookee aqui, jt.
+
+661
+00:53:44,463 --> 00:53:47,997
+Ei, ei, menino ianque. Olhe aqui o que eu tenho.
+
+662
+00:53:49,134 --> 00:53:52,883
+- O que é? - $ 200.
+
+663
+00:53:54,348 --> 00:53:56,755
+Traga aqui. Deixe -me ver isso.
+
+664
+00:54:03,982 --> 00:54:06,271
+HM.
+
+665
+00:54:06,360 --> 00:54:10,571
+Como eu sei que isso não é um monte de outros com 20 envoltórios em torno dele?
+
+666
+00:54:11,740 --> 00:54:15,358
+- São 200 dólares. - Fan Fan Out. Mostre para mim.
+
+667
+00:54:20,582 --> 00:54:22,456
+Sim, certo.
+
+668
+00:54:54,741 --> 00:54:57,113
+(sino tocando)
+
+669
+00:55:11,758 --> 00:55:14,593
+(apito de trem)
+
+670
+00:55:17,097 --> 00:55:19,090
+(Whistle Blares)
+
+671
+00:55:25,272 --> 00:55:27,810
+(Rumes de trem passados)
+
+672
+00:55:27,899 --> 00:55:29,975
+(o apito do trem continua)
+
+673
+00:55:37,159 --> 00:55:39,151
+(Lisa risadas)
+
+674
+00:55:46,001 --> 00:55:49,251
+Esse trem de carga chega às 5 da manhã todas as manhãs?
+
+675
+00:55:49,338 --> 00:55:51,710
+Não, senhor. É muito incomum.
+
+676
+00:55:53,258 --> 00:55:55,050
+OK.
+
+677
+00:55:55,385 --> 00:55:58,671
+Eu estava ganhando muito dinheiro, vencendo a maioria dos meus casos.
+
+678
+00:55:58,764 --> 00:56:00,306
+Obrigado, Shirley.
+
+679
+00:56:00,474 --> 00:56:02,632
+Mas meus clientes eram culpados como o inferno.
+
+680
+00:56:02,726 --> 00:56:07,187
+Finalmente, depois de tirar esse cara de algumas acusações sérias pela quarta vez ...
+
+681
+00:56:07,272 --> 00:56:09,728
+... Eu te digo a verdade, minha consciência chegou comigo.
+
+682
+00:56:09,816 --> 00:56:13,020
+Eu estaria servindo mais justiça colocando os culpados na prisão.
+
+683
+00:56:13,111 --> 00:56:17,323
+É isso que tenho feito e ... sou um homem mais feliz por isso.
+
+684
+00:56:17,407 --> 00:56:21,571
+- E você? - Bem, eu recebi uma passagem de trânsito.
+
+685
+00:56:21,954 --> 00:56:24,326
+No tribunal, peguei o policial no estande ...
+
+686
+00:56:24,414 --> 00:56:27,451
+... e discutiu com ele até que ele admitiu que estava errado.
+
+687
+00:56:27,542 --> 00:56:29,500
+E uh ...
+
+688
+00:56:29,586 --> 00:56:32,540
+... o juiz, esse juiz Malloy ...
+
+689
+00:56:32,631 --> 00:56:35,548
+... o tempo todo, ele está rindo e sorrindo ...
+
+690
+00:56:35,634 --> 00:56:39,382
+... E então, depois, ele me pediu para almoçar com ele.
+
+691
+00:56:39,471 --> 00:56:42,887
+Então ele me diz "Você sabe o que? Você seria um bom litigante".
+
+692
+00:56:42,975 --> 00:56:48,051
+Não sei do que diabos ele estava falando. Não sei o que é um litigante.
+
+693
+00:56:48,146 --> 00:56:52,310
+Eu nunca pensei em me tornar advogado. Mas o juiz Malloy também era do Brooklyn.
+
+694
+00:56:52,401 --> 00:56:55,983
+Quero dizer, ele fez isso. Então, de repente, parecia possível.
+
+695
+00:56:56,738 --> 00:56:58,814
+Então eu fui para a faculdade de direito.
+
+696
+00:56:58,907 --> 00:57:04,530
+Então, de tempos em tempos, ele aparecia, veja como eu estava fazendo, se eu precisasse de alguma coisa.
+
+697
+00:57:06,039 --> 00:57:08,115
+Ele era um homem legal.
+
+698
+00:57:08,208 --> 00:57:11,707
+Quero dizer, para sair do seu caminho assim para mim, sabe?
+
+699
+00:57:12,421 --> 00:57:17,628
+Ele queria que seu filho seguisse seus passos, mas se tornou um músico ou algo assim.
+
+700
+00:57:17,718 --> 00:57:20,837
+Lembro -me de quando me formei, ele estava tão orgulhoso de mim.
+
+701
+00:57:20,971 --> 00:57:23,592
+Isso é uma história e tanto.
+
+702
+00:57:23,682 --> 00:57:25,306
+Sim.
+
+703
+00:57:25,392 --> 00:57:28,761
+- Temos algum caso pela frente aqui, hein? - Oh sim.
+
+704
+00:57:29,187 --> 00:57:32,936
+- Como você se sente sobre isso? - Oh, bem, eu ...
+
+705
+00:57:33,025 --> 00:57:35,397
+Eu gostaria de ter uma arma de crimes.
+
+706
+00:57:35,485 --> 00:57:38,854
+Mas, além disso, me sinto muito bem.
+
+707
+00:57:38,947 --> 00:57:40,904
+- Você faz? - Oh sim.
+
+708
+00:57:42,784 --> 00:57:44,824
+O que você está fazendo esta tarde?
+
+709
+00:57:46,121 --> 00:57:48,790
+- Você está caçando? - Isso mesmo.
+
+710
+00:57:48,874 --> 00:57:52,325
+Por que você está caçando? Você não deveria estar se preparando para o tribunal?
+
+711
+00:57:52,419 --> 00:57:56,962
+Eu estava pensando na noite passada "se eu soubesse o que ele sabe". Você sabe?
+
+712
+00:57:57,049 --> 00:57:59,622
+Se ele me deixasse olhar para seus arquivos. Oh, garoto!
+
+713
+00:58:00,302 --> 00:58:05,094
+Eu não entendo. O que chegar aos arquivos de Trotter tem a ver com a caça?
+
+714
+00:58:05,182 --> 00:58:09,808
+Bem, você sabe. Dois caras na floresta, armas, na caça.
+
+715
+00:58:09,895 --> 00:58:13,394
+É uma coisa de vínculo, você sabe. Mostre a ele que sou um dos meninos.
+
+716
+00:58:13,482 --> 00:58:17,776
+Ele não me deixa ver seus arquivos, mas talvez ele relaxe o suficiente para deixar sua guarda ...
+
+717
+00:58:17,861 --> 00:58:21,111
+... para que eu possa deliciar uma pequena informação dele.
+
+718
+00:58:22,616 --> 00:58:25,533
+- O que eu vou usar? - O que você vai caçar?
+
+719
+00:58:25,619 --> 00:58:29,367
+Não sei. Ele tem muitas cabeças de pelúcia em seu escritório.
+
+720
+00:58:29,748 --> 00:58:32,915
+Cabeças?! Que tipo de cabeça?
+
+721
+00:58:33,001 --> 00:58:35,671
+Não sei. Ele tem um javali, um urso, um par de cervos.
+
+722
+00:58:35,754 --> 00:58:38,079
+Uau! Você vai atirar em um cervo?
+
+723
+00:58:39,633 --> 00:58:44,176
+Não sei. Eu suponho. Quero dizer, sou homem de um homem. Eu poderia ir caçar veados.
+
+724
+00:58:44,429 --> 00:58:49,850
+Um cervo doce, inocente, inofensivo, com comer e com olhos de corça.
+
+725
+00:58:49,935 --> 00:58:53,600
+Ei, Lisa. Eu não vou lá apenas para sair, sabe?
+
+726
+00:58:53,689 --> 00:58:58,101
+Quero dizer, o cara vai perder o respeito por mim. Você prefere ter isso?!
+
+727
+00:59:03,740 --> 00:59:07,156
+E as calças que eu peguei? Você acha que eles estão bem?
+
+728
+00:59:08,495 --> 00:59:10,322
+Oh!
+
+729
+00:59:12,457 --> 00:59:14,616
+Imagine que você é um cervo.
+
+730
+00:59:14,710 --> 00:59:19,585
+Você está empolgando junto. Você fica com sede. Você vê um pouco de riacho.
+
+731
+00:59:19,673 --> 00:59:23,623
+Você coloca seus pequenos lábios de cervo na água fria e clara.
+
+732
+00:59:24,177 --> 00:59:27,048
+BAM! Uma bala foda rasga parte da sua cabeça.
+
+733
+00:59:27,139 --> 00:59:30,555
+Seus cérebros estão deitados no chão em pequenos pedaços sangrentos.
+
+734
+00:59:30,642 --> 00:59:33,264
+Você faria a mínima que tipo de calça ...
+
+735
+00:59:33,353 --> 00:59:36,140
+... O filho de uma vadia que atirou você estava vestindo?
+
+736
+00:59:48,827 --> 00:59:51,365
+Eu com certeza gostaria de dar uma olhada nos seus arquivos.
+
+737
+00:59:51,455 --> 00:59:53,993
+- Você faria? - Claro.
+
+738
+00:59:54,082 --> 00:59:56,158
+Você tem uma máquina Xerox ali?
+
+739
+00:59:56,251 --> 00:59:58,493
+Uh, não.
+
+740
+00:59:58,587 --> 01:00:01,623
+Oh. Isso está ok. Vou fazer minha secretária fazer isso.
+
+741
+01:00:01,715 --> 01:00:08,382
+Shirley, você pode xerox todos os arquivos no caso Gambini/Rothenstein para o Sr. Gambini?
+
+742
+01:00:09,389 --> 01:00:11,927
+Sim. Obrigado, querida.
+
+743
+01:00:20,275 --> 01:00:24,143
+- O que é tudo isso? - Arquivos de Trotter. Todos eles.
+
+744
+01:00:24,237 --> 01:00:27,488
+- Você roubou seus arquivos? - Eu não roubei seus arquivos.
+
+745
+01:00:27,574 --> 01:00:32,402
+Ouça isso. Estou pronto para refiná -lo. Estou começando a refiná -lo. Eu o peguei indo.
+
+746
+01:00:32,496 --> 01:00:36,244
+Ele se oferece para que sua secretária copie tudo para mim.
+
+747
+01:00:37,584 --> 01:00:41,249
+- Isso é uma refinamento muito impressionante. - isso não é tudo.
+
+748
+01:00:41,338 --> 01:00:44,292
+Ele está nos deixando usar sua cabine de caça quando voltar.
+
+749
+01:00:44,383 --> 01:00:47,965
+Está na floresta. Está quieto. Ele dorme como um bebê quando está lá.
+
+750
+01:00:48,053 --> 01:00:51,007
+Maravilhoso. Você é um BONDE HELLUVA.
+
+751
+01:00:51,890 --> 01:00:54,642
+O que é isso? Você está lendo este livro?
+
+752
+01:00:55,602 --> 01:00:58,769
+- Sim. - Faça -me um favor, ok? Não leia este livro.
+
+753
+01:00:59,606 --> 01:01:01,729
+OK? Muito obrigado.
+
+754
+01:01:02,359 --> 01:01:04,435
+Tudo bem.
+
+755
+01:01:05,237 --> 01:01:07,906
+Você não quer saber por que Trotter lhe deu seus arquivos?
+
+756
+01:01:07,990 --> 01:01:09,899
+Eu te disse por que já.
+
+757
+01:01:09,992 --> 01:01:14,950
+Ele tem que por lei. Você tem direito. É chamado de divulgação, seu idiota!
+
+758
+01:01:15,664 --> 01:01:19,033
+Ele tem que mostrar tudo, caso contrário, pode ser um julgamento.
+
+759
+01:01:19,126 --> 01:01:23,455
+Ele tem que lhe dar uma lista de todas as suas testemunhas. Você pode conversar com todas as suas testemunhas.
+
+760
+01:01:23,547 --> 01:01:25,919
+Ele não tem nenhuma surpresa.
+
+761
+01:01:27,759 --> 01:01:31,128
+Eles também não te ensinaram isso na faculdade de direito?
+
+762
+01:01:37,561 --> 01:01:39,553
+Agora deixe -me perguntar isso.
+
+763
+01:01:39,646 --> 01:01:42,600
+Quantos níveis de espessura você passou?
+
+764
+01:01:42,983 --> 01:01:46,019
+- O que você tem no café da manhã? - Bem...
+
+765
+01:01:46,278 --> 01:01:48,603
+O que é aquele marrom ... coisas?
+
+766
+01:01:50,782 --> 01:01:51,482
+Huh?
+
+767
+01:01:53,285 --> 01:01:55,361
+(sino de cruzamento de nível)
+
+768
+01:01:58,040 --> 01:02:00,116
+(apito de trem)
+
+769
+01:02:01,126 --> 01:02:03,202
+(Whistle Blares)
+
+770
+01:02:04,921 --> 01:02:06,380
+(quebras de vidro)
+
+771
+01:02:16,016 --> 01:02:21,520
+Ontem você me disse que o trem de carga quase nunca chega por aqui às 5 da manhã.
+
+772
+01:02:21,605 --> 01:02:25,603
+Eu sei. Ela deveria chegar às dez depois de quatro.
+
+773
+01:02:27,944 --> 01:02:33,105
+Você pode participar disso - em que a decisão final pode ser a morte por eletrocussão?
+
+774
+01:02:35,535 --> 01:02:36,567
+Senhora?
+
+775
+01:02:36,662 --> 01:02:40,742
+Eu acho que deveria ser deixado para as famílias das vítimas, em vez dos tribunais.
+
+776
+01:02:40,832 --> 01:02:42,908
+Uh-huh?
+
+777
+01:02:43,460 --> 01:02:47,505
+Os réus neste caso são acusados ​​de roubar uma loja de conveniência.
+
+778
+01:02:47,589 --> 01:02:51,918
+E então, da maneira mais covarde, atirando no funcionário nas costas.
+
+779
+01:02:52,427 --> 01:02:57,385
+Agora, se evidências suficientes são oferecidas para provar esses fatos, você acha que poderia ...
+
+780
+01:02:57,474 --> 01:02:59,550
+Frite -os.
+
+781
+01:03:00,560 --> 01:03:01,936
+Ela vai fazer.
+
+782
+01:03:11,697 --> 01:03:13,773
+HM.
+
+783
+01:03:17,703 --> 01:03:19,161
+(bata na porta)
+
+784
+01:03:20,080 --> 01:03:24,078
+Sr. Gambini. Entre. Entre.
+
+785
+01:03:33,427 --> 01:03:37,471
+Acabei de receber um fax do Escritório de Registros Judiciais do Estado de Nova York.
+
+786
+01:03:40,142 --> 01:03:42,680
+Eles não têm registros ...
+
+787
+01:03:42,769 --> 01:03:47,764
+... de qualquer Vincent Gambini já tentando qualquer caso em todo o estado de Nova York.
+
+788
+01:03:49,109 --> 01:03:54,696
+Você não encontrará nenhum registro de Vincent La Guardia Gambini praticando em nenhum tribunal.
+
+789
+01:03:54,781 --> 01:03:57,319
+- Eu apenas te disse isso. - Você não entende.
+
+790
+01:03:57,409 --> 01:04:00,493
+Veja, há 20 anos, eu me tornei um ator.
+
+791
+01:04:00,579 --> 01:04:04,956
+Havia esse ator de palco proeminente em Nova York. Seu nome era Vincent Gambini.
+
+792
+01:04:05,042 --> 01:04:07,200
+- Talvez você tenha ouvido falar dele. - Não.
+
+793
+01:04:07,294 --> 01:04:12,585
+Nunca ouviu falar dele? Não importa. De qualquer forma, tive que mudar meu nome, o que fiz legalmente.
+
+794
+01:04:12,674 --> 01:04:16,209
+Então agora eu pratico direito sob meu nome artístico legalmente mudado.
+
+795
+01:04:16,303 --> 01:04:18,876
+- Que nome é esse? - Jerry GA ...
+
+796
+01:04:22,934 --> 01:04:25,057
+Jerry Gallo.
+
+797
+01:04:25,145 --> 01:04:27,221
+(Peça de xadrez rola no chão)
+
+798
+01:04:29,107 --> 01:04:31,147
+Você ainda pode me chamar de Gambini.
+
+799
+01:04:32,444 --> 01:04:34,520
+(gotas de peças de xadrez)
+
+800
+01:04:35,364 --> 01:04:37,487
+Desculpe.
+
+801
+01:04:38,158 --> 01:04:41,194
+- Que nome você disse a ele? - Jerry Gallo.
+
+802
+01:04:41,286 --> 01:04:45,284
+- Jerry Gallo? O grande advogado? - Sim.
+
+803
+01:04:45,374 --> 01:04:49,585
+- Acha que foi uma jogada inteligente? - Sim. Ele é um advogado seriamente talentoso.
+
+804
+01:04:49,670 --> 01:04:52,161
+Seu nome aparecerá em todo o lugar.
+
+805
+01:04:52,255 --> 01:04:55,091
+- O nome dele estava nos jornais na semana passada. - Eu vi isso.
+
+806
+01:04:55,175 --> 01:04:57,880
+- Você realmente não leu os artigos? - Não.
+
+807
+01:04:57,970 --> 01:05:00,639
+- Isso é muito ruim. - Por que é que?
+
+808
+01:05:00,722 --> 01:05:02,798
+Porque ele está morto.
+
+809
+01:05:21,201 --> 01:05:23,739
+Qual é o problema com você?
+
+810
+01:05:23,829 --> 01:05:25,905
+Eu não sei.
+
+811
+01:05:28,709 --> 01:05:32,291
+- Você está agindo como se estivesse nervoso. - bem, sim. Eu sou.
+
+812
+01:05:32,754 --> 01:05:36,170
+Por que? Eu sou quem está sob a arma. O julgamento começa amanhã.
+
+813
+01:05:36,258 --> 01:05:39,425
+Você quer saber o que estou nervoso? Eu vou te dizer.
+
+814
+01:05:39,511 --> 01:05:43,378
+Estou no escuro aqui com essa porcaria legal. Eu não tenho ideia do que está acontecendo.
+
+815
+01:05:43,473 --> 01:05:46,842
+Tudo que eu sei é que você está estragando e não posso ajudar.
+
+816
+01:05:47,185 --> 01:05:50,222
+- Você me emprestou sua pequena câmera, não é? - Oh, Vinny!
+
+817
+01:05:50,314 --> 01:05:56,316
+Estou assistindo você descer em chamas, me trazendo com você, e não posso fazer nada a respeito.
+
+818
+01:05:56,403 --> 01:05:57,778
+E?
+
+819
+01:05:57,863 --> 01:06:01,113
+Eu odeio trazer à tona - eu sei que você tem pressão suficiente sobre você -
+
+820
+01:06:01,199 --> 01:06:04,366
+... Mas concordamos em nos casar quando você venceu seu primeiro caso.
+
+821
+01:06:04,453 --> 01:06:09,411
+Enquanto isso, dez anos depois, minha sobrinha, a filha da minha irmã, está se casando.
+
+822
+01:06:09,499 --> 01:06:12,073
+Meu relógio biológico está funcionando assim ...
+
+823
+01:06:12,169 --> 01:06:16,083
+... E a maneira como este caso está indo, eu nunca me é casado!
+
+824
+01:06:17,507 --> 01:06:22,715
+Lisa, eu não preciso disso. Eu juro a Deus, não preciso disso agora, ok?
+
+825
+01:06:22,804 --> 01:06:26,054
+Eu tenho Ajudge que está doendo em me jogar na prisão.
+
+826
+01:06:26,767 --> 01:06:29,768
+Um idiota que quer lutar comigo por US $ 200.
+
+827
+01:06:29,853 --> 01:06:33,020
+Porcos abatidos. Gigante assobios altos.
+
+828
+01:06:33,774 --> 01:06:35,850
+Eu não dormi em cinco dias.
+
+829
+01:06:35,942 --> 01:06:38,564
+Não tenho dinheiro. Um problema de código de vestimenta.
+
+830
+01:06:38,654 --> 01:06:43,814
+E um pequeno caso de assassinato que, na balança, mantém a vida de duas crianças inocentes.
+
+831
+01:06:43,909 --> 01:06:45,985
+Sem mencionar o seu ...
+
+832
+01:06:47,037 --> 01:06:51,200
+... relógio biológico, minha carreira, sua vida, nosso casamento ...
+
+833
+01:06:51,291 --> 01:06:53,829
+... e deixe -me ver, o que mais podemos acumular?
+
+834
+01:06:53,919 --> 01:06:58,664
+Há mais alguma merda que podemos acumular no topo do resultado deste caso?!
+
+835
+01:06:59,424 --> 01:07:01,547
+É possível?!
+
+836
+01:07:04,471 --> 01:07:06,760
+Talvez tenha sido um momento ruim para trazê -lo à tona.
+
+837
+01:07:24,658 --> 01:07:26,366
+(Screech)
+
+838
+01:07:26,451 --> 01:07:29,785
+- Que porra é essa? - (Screech)
+
+839
+01:07:36,253 --> 01:07:38,329
+(Screeches)
+
+840
+01:07:48,849 --> 01:07:50,925
+(Screeches)
+
+841
+01:07:52,144 --> 01:07:53,686
+(Screeches)
+
+842
+01:07:56,231 --> 01:07:58,188
+(Lisa) Isso é muito romântico.
+
+843
+01:07:59,943 --> 01:08:02,434
+Aqui neste campo ...
+
+844
+01:08:02,529 --> 01:08:04,937
+... sob as estrelas ...
+
+845
+01:08:05,032 --> 01:08:07,404
+...quieto.
+
+846
+01:08:07,492 --> 01:08:10,066
+Ninguém por quilômetros.
+
+847
+01:08:11,413 --> 01:08:13,986
+É muito romântico.
+
+848
+01:08:18,211 --> 01:08:19,955
+Não vejo estrelas.
+
+849
+01:08:20,047 --> 01:08:22,798
+(Crashing Thunder)
+
+850
+01:08:36,271 --> 01:08:38,394
+(gemidos)
+
+851
+01:08:38,482 --> 01:08:40,937
+Querida, mova -se. Minhas costas.
+
+852
+01:08:42,361 --> 01:08:44,686
+Eu tenho que me levantar.
+
+853
+01:08:45,989 --> 01:08:47,982
+Espere. Deixe-me...
+
+854
+01:08:49,868 --> 01:08:52,157
+Esta jaqueta porra!
+
+855
+01:09:09,930 --> 01:09:11,389
+Porra.
+
+856
+01:10:00,188 --> 01:10:02,893
+- Oh! - Você está bem?
+
+857
+01:10:02,983 --> 01:10:05,390
+O que havia naquela coisa de plástico no porta -malas?
+
+858
+01:10:05,485 --> 01:10:07,692
+É o seu traje.
+
+859
+01:10:07,779 --> 01:10:10,566
+- O que meu traje está fazendo no porta -malas? - Eu o limpei.
+
+860
+01:10:10,657 --> 01:10:13,943
+Eu pensei que seria uma boa surpresa - vá lá com um terno limpo.
+
+861
+01:10:23,045 --> 01:10:28,003
+Tenho 30 minutos para tomar um banho, pegar um terno novo e chegar ao tribunal.
+
+862
+01:10:28,091 --> 01:10:32,421
+- Você está de foda, eu vou pegar seu traje de merda. - Ei, ei, Little Yankee Wuss!
+
+863
+01:10:32,512 --> 01:10:34,885
+Lookee aqui! Tenho seus US $ 200.
+
+864
+01:10:36,058 --> 01:10:38,383
+Você vai chutar a merda de mim agora?
+
+865
+01:11:08,340 --> 01:11:11,257
+(Thunder Rumbles)
+
+866
+01:11:25,732 --> 01:11:27,808
+(Porta abre)
+
+867
+01:11:34,741 --> 01:11:36,485
+(rindo)
+
+868
+01:11:48,088 --> 01:11:51,789
+Sr. Gambini, você está zombando com essa roupa?
+
+869
+01:11:53,385 --> 01:11:55,591
+Zombando de você? Não estou zombando de você, juiz.
+
+870
+01:11:55,887 --> 01:11:58,213
+Então explique isso ... roupa.
+
+871
+01:12:01,810 --> 01:12:05,808
+Eu comprei um terno. Você viu isso. Agora está coberto de lama.
+
+872
+01:12:06,231 --> 01:12:10,145
+Esta cidade não tem uma limpeza de uma hora, então tive que comprar um terno novo.
+
+873
+01:12:10,235 --> 01:12:14,696
+Exceto que a única loja em que você poderia comprar um novo traje tem a gripe.
+
+874
+01:12:14,781 --> 01:12:17,451
+Você entendeu isso? Toda a loja pegou a gripe.
+
+875
+01:12:17,534 --> 01:12:20,820
+Então, eu tive que conseguir isso em uma loja de segunda mão.
+
+876
+01:12:21,580 --> 01:12:28,247
+Então, é usar a camisa de couro - que eu sei que você odeia - ou isso.
+
+877
+01:12:29,212 --> 01:12:31,538
+Então eu usava isso ...
+
+878
+01:12:31,632 --> 01:12:34,586
+... coisa ridícula para você.
+
+879
+01:12:38,764 --> 01:12:41,136
+Você está com drogas?
+
+880
+01:12:41,224 --> 01:12:43,513
+Drogas? Não. Eu não tomo drogas.
+
+881
+01:12:43,935 --> 01:12:47,186
+- Eu não gosto da sua atitude. - O que mais é novo?
+
+882
+01:12:47,314 --> 01:12:51,312
+- Estou te segurando desprezo ao tribunal. - Há uma surpresa.
+
+883
+01:12:52,110 --> 01:12:54,186
+- O que você disse? - O que?
+
+884
+01:12:54,655 --> 01:12:56,943
+O que você acabou de dizer?
+
+885
+01:12:57,783 --> 01:13:00,155
+O que eu disse? O que?
+
+886
+01:13:04,623 --> 01:13:06,995
+Uh, sua honra ...
+
+887
+01:13:07,084 --> 01:13:09,753
+... Conselho, membros do júri.
+
+888
+01:13:09,836 --> 01:13:15,626
+As evidências neste caso mostrarão que às 9h30 da manhã de 4 de janeiro ...
+
+889
+01:13:15,717 --> 01:13:19,964
+... Ambos os réus, Stanley Rothenstein e William Gambini ...
+
+890
+01:13:20,055 --> 01:13:22,261
+... foram vistos saindo de seus ...
+
+891
+01:13:22,349 --> 01:13:28,019
+... Buick Skylark de 1964, verde metálico, conversível com uma blusa branca.
+
+892
+01:13:28,105 --> 01:13:34,854
+Vai mostrar que eles foram vistos entrando na loja de conveniência Sac-o-Suds em Wazoo City.
+
+893
+01:13:34,945 --> 01:13:39,322
+A evidência mostrará que, minutos depois que eles entraram no sac-o-suds ...
+
+894
+01:13:39,408 --> 01:13:42,693
+... Um tiro foi ouvido por três testemunhas oculares.
+
+895
+01:13:43,287 --> 01:13:47,580
+Você então ouvirá o testemunho das três testemunhas oculares ...
+
+896
+01:13:47,666 --> 01:13:52,743
+... que viu os réus correndo dos sac-sudos logo após a ouvidos dos tiros ...
+
+897
+01:13:52,838 --> 01:13:59,172
+... Entrando em seu desbotado, Buick Skylark, de 1964, desbotado e dirige com muita pressa.
+
+898
+01:14:00,095 --> 01:14:06,299
+Finalmente, o estado vai provar que os réus, Gambini e Rothenstein ...
+
+899
+01:14:06,393 --> 01:14:11,732
+... admitiu então retratar seu testemunho ao xerife do condado de Beechum.
+
+900
+01:14:12,024 --> 01:14:14,016
+Agora vamos descer.
+
+901
+01:14:14,109 --> 01:14:19,448
+Seu veredicto vai depender do que você pensa do testemunho juramentado.
+
+902
+01:14:20,365 --> 01:14:23,366
+Não o que eu penso. O que eu acho que não conta.
+
+903
+01:14:23,452 --> 01:14:26,986
+Você é o júri. É sua Job decidir quem está dizendo a verdade.
+
+904
+01:14:27,456 --> 01:14:30,575
+Verdade. Isso é o que significa "veredicto".
+
+905
+01:14:31,335 --> 01:14:36,162
+É uma palavra que desce da antiga Inglaterra e todos os nossos pequenos ancestrais.
+
+906
+01:14:36,256 --> 01:14:40,170
+Agora, vamos pedir para você devolver um veredicto ...
+
+907
+01:14:40,260 --> 01:14:45,136
+... de assassinato no primeiro grau para William Gambini ...
+
+908
+01:14:45,724 --> 01:14:49,674
+... e um veredicto de acessório para assassinato no primeiro grau ...
+
+909
+01:14:50,437 --> 01:14:52,726
+... para Stanley Rothenstein ...
+
+910
+01:14:52,814 --> 01:14:58,603
+... por ajudar Gambini a cometer esse crime hediondo.
+
+911
+01:15:08,455 --> 01:15:11,990
+Conselheiro, você deseja fazer uma declaração de abertura?
+
+912
+01:15:14,586 --> 01:15:16,911
+Conselheiro?
+
+913
+01:15:17,005 --> 01:15:20,006
+(roncos)
+
+914
+01:15:22,928 --> 01:15:24,636
+- Vinny. - O que?
+
+915
+01:15:24,721 --> 01:15:27,426
+Vamos lá, é hora de fazer sua declaração de abertura.
+
+916
+01:15:27,516 --> 01:15:28,761
+Vamos lá, Vin.
+
+917
+01:15:33,981 --> 01:15:35,179
+Uh...
+
+918
+01:15:35,273 --> 01:15:38,440
+- Tudo o que o cara disse é besteira. - (Membro do júri susps)
+
+919
+01:15:38,527 --> 01:15:39,855
+Obrigado.
+
+920
+01:15:39,945 --> 01:15:44,108
+Objeção, sua honra. A declaração de abertura inteira do advogado é o argumento.
+
+921
+01:15:44,199 --> 01:15:47,449
+Objeção sustentada. Toda a declaração de abertura ...
+
+922
+01:15:47,661 --> 01:15:53,035
+... Com exceção de "Obrigado", será atingido pelo disco.
+
+923
+01:15:53,125 --> 01:15:58,332
+O júri, por favor, desconsiderará toda a declaração de abertura do advogado.
+
+924
+01:15:58,714 --> 01:16:01,798
+E você, Sr. Gambini ...
+
+925
+01:16:02,009 --> 01:16:05,378
+... não usará esse tipo de linguagem em meu tribunal. Entender?
+
+926
+01:16:05,470 --> 01:16:07,546
+Sim, sim, sim.
+
+927
+01:16:10,642 --> 01:16:12,718
+Putz.
+
+928
+01:16:14,563 --> 01:16:17,136
+Conselheiro. Sua declaração, senhor.
+
+929
+01:16:36,376 --> 01:16:39,046
+Bem, agora. Uh...
+
+930
+01:16:39,129 --> 01:16:43,209
+Senhoras e senhores do J-J-J ...
+
+931
+01:16:44,051 --> 01:16:46,720
+... do J-J-J ...
+
+932
+01:16:46,803 --> 01:16:48,879
+(tosse)
+
+933
+01:16:49,056 --> 01:16:51,214
+...júri! Hum ...
+
+934
+01:16:53,518 --> 01:16:55,096
+On-on ...
+
+935
+01:16:55,187 --> 01:17:00,892
+Em janeiro, fffffff ...
+
+936
+01:17:00,984 --> 01:17:08,031
+... Quarto deste ano, meu cliente realmente visitou os sac-o-suds C ... hum ... co ...
+
+937
+01:17:08,408 --> 01:17:10,484
+... hum ... hum ...
+
+938
+01:17:12,162 --> 01:17:14,238
+...loja de conveniência.
+
+939
+01:17:14,373 --> 01:17:16,449
+Mas, mas ...
+
+940
+01:17:17,834 --> 01:17:19,827
+... ele não, hum ...
+
+941
+01:17:19,920 --> 01:17:21,414
+(Sniffs)
+
+942
+01:17:21,505 --> 01:17:24,589
+... mate alguém. Ele, hum ...
+
+943
+01:17:29,221 --> 01:17:35,140
+Pretendemos provar que o PPPPP ...
+
+944
+01:17:36,144 --> 01:17:40,890
+... O caso da acusação é circunstancial e e e ...
+
+945
+01:17:41,692 --> 01:17:43,768
+(suspiros)
+
+946
+01:17:45,529 --> 01:17:47,605
+... Coincidente. Obrigado.
+
+947
+01:17:57,541 --> 01:17:59,617
+(Gibbons suspira)
+
+948
+01:18:00,961 --> 01:18:03,630
+É isso? E tudo o que conversamos?
+
+949
+01:18:03,714 --> 01:18:05,706
+- Fico um pouco nervoso ... - um pouco?
+
+950
+01:18:05,799 --> 01:18:07,507
+Estou ficando melhor.
+
+951
+01:18:08,385 --> 01:18:11,386
+Eu ouvi um tiro, então olhei pela janela ...
+
+952
+01:18:11,471 --> 01:18:16,133
+... e eu os vi dois garotos correndo, entrar no carro deles ...
+
+953
+01:18:16,226 --> 01:18:21,351
+... e dirige como maníacos, seus pneus gritando, fumando, indo no meio -fio.
+
+954
+01:18:21,440 --> 01:18:23,516
+É este o carro?
+
+955
+01:18:23,608 --> 01:18:26,812
+- Sim, senhor. - Obrigado, senhor.
+
+956
+01:18:26,903 --> 01:18:29,110
+Não há mais perguntas, sua honra.
+
+957
+01:18:29,197 --> 01:18:31,273
+Sua testemunha.
+
+958
+01:18:35,037 --> 01:18:39,864
+Tudo bem. Sr. Uh, T-T-T ...
+
+959
+01:18:39,958 --> 01:18:41,915
+... uh ... hum ...
+
+960
+01:18:42,419 --> 01:18:44,910
+... Uh ... Tipton. (Sniffs)
+
+961
+01:18:45,505 --> 01:18:47,794
+Agora, quando você viu meus clientes ...
+
+962
+01:18:48,050 --> 01:18:51,466
+... como você estava longe? - cerca de 50 pés.
+
+963
+01:18:51,553 --> 01:18:55,503
+Agora, você acha que isso está perto o suficiente para fazer um preciso ...
+
+964
+01:18:55,599 --> 01:19:02,136
+... I- I-i-Identification?
+
+965
+01:19:02,731 --> 01:19:04,605
+Sim.
+
+966
+01:19:06,860 --> 01:19:10,692
+- Sr. Tipton, vejo que você usa óculos. - Às vezes.
+
+967
+01:19:10,781 --> 01:19:15,941
+Você gostaria de mostrar esses óculos ao júri, por favor? Obrigado.
+
+968
+01:19:17,788 --> 01:19:21,832
+Obrigado. Sr. Tipton, você os estava usando naquele dia?
+
+969
+01:19:21,917 --> 01:19:24,075
+- Não. - Você vê!
+
+970
+01:19:24,795 --> 01:19:28,923
+Você estava a 15 metros de distância, fez uma identificação positiva de testemunhas oculares ...
+
+971
+01:19:29,049 --> 01:19:32,335
+... e e ainda ...
+
+972
+01:19:32,427 --> 01:19:36,888
+... Você não estava usando seus óculos de prescrição necessários.
+
+973
+01:19:38,016 --> 01:19:40,721
+Eles estão lendo óculos.
+
+974
+01:19:47,985 --> 01:19:50,061
+Uh...
+
+975
+01:19:51,530 --> 01:19:53,439
+Bem, uh ...
+
+976
+01:19:53,532 --> 01:19:57,280
+Sr. Uh ... uh ...
+
+977
+01:19:57,369 --> 01:20:03,324
+Você poderia dizer ao tribunal de que cor os olhos os réus têm?
+
+978
+01:20:06,503 --> 01:20:09,587
+Marrom. Hazel Green.
+
+979
+01:20:13,885 --> 01:20:16,127
+Não há mais perguntas.
+
+980
+01:20:20,225 --> 01:20:22,467
+(Juiz) Sr. Gambini. Sua testemunha.
+
+981
+01:20:24,021 --> 01:20:26,642
+- Ele é difícil! - Sim.
+
+982
+01:20:28,608 --> 01:20:30,731
+Sr. Tipton.
+
+983
+01:20:30,819 --> 01:20:33,108
+Quando você viu os réus ...
+
+984
+01:20:33,196 --> 01:20:37,858
+... Caminhando do carro deles até os sac-sudos, que ângulo era o seu ponto de vista?
+
+985
+01:20:38,243 --> 01:20:41,826
+Eles estavam meio que caminhando em minha direção quando entraram na loja.
+
+986
+01:20:41,913 --> 01:20:45,662
+E quando eles saíram, que ângulo era o seu ponto de vista?
+
+987
+01:20:45,751 --> 01:20:48,787
+Eles estavam meio que se afastarem de mim.
+
+988
+01:20:48,879 --> 01:20:53,208
+Então você diria que você teve uma foto melhor deles, e não tanto saiu?
+
+989
+01:20:53,675 --> 01:20:57,009
+- Você poderia dizer isso. - Eu disse isso. Você diria isso?
+
+990
+01:20:57,554 --> 01:20:58,550
+Sim.
+
+991
+01:20:59,514 --> 01:21:02,184
+É possível que os dois jovens ...
+
+992
+01:21:03,310 --> 01:21:05,386
+Dois o quê?
+
+993
+01:21:06,938 --> 01:21:09,227
+Qual foi essa palavra?
+
+994
+01:21:09,941 --> 01:21:12,349
+- Que palavra? - Dois o quê?
+
+995
+01:21:12,444 --> 01:21:15,196
+- O que? - Você disse "yoots"?
+
+996
+01:21:15,489 --> 01:21:18,110
+- Sim. "Dois jovens." - O que é um yoot?
+
+997
+01:21:18,575 --> 01:21:20,864
+Oh. Com licença, sua honra.
+
+998
+01:21:20,994 --> 01:21:22,488
+Dois jovens.
+
+999
+01:21:29,753 --> 01:21:32,458
+É possível que os dois réus ...
+
+1000
+01:21:32,965 --> 01:21:37,508
+... Entrou na loja, escolheu 22 itens específicos nas prateleiras ...
+
+1001
+01:21:37,928 --> 01:21:42,257
+... O funcionário recebeu dinheiro, fez trocar e depois sair.
+
+1002
+01:21:42,349 --> 01:21:46,299
+Então, dois homens diferentes dirigem em um similar ...
+
+1003
+01:21:46,395 --> 01:21:50,606
+Não balance a cabeça. Espere até ouvir a coisa toda para que você possa entender.
+
+1004
+01:21:50,691 --> 01:21:53,857
+Dois homens diferentes dirigem em um carro semelhante ...
+
+1005
+01:21:53,944 --> 01:21:58,522
+... Entre, atire no balconista, roube -o e depois sai?
+
+1006
+01:21:58,824 --> 01:22:01,149
+Não. Eles não tinham tempo suficiente.
+
+1007
+01:22:01,410 --> 01:22:04,161
+- Quanto tempo eles estavam na loja? - Cinco minutos.
+
+1008
+01:22:04,246 --> 01:22:07,413
+- Cinco minutos? Você olhou para o seu relógio? - Não.
+
+1009
+01:22:07,499 --> 01:22:13,205
+Oh, sinto muito. Você testemunhou anteriormente que os meninos entraram na loja ...
+
+1010
+01:22:13,297 --> 01:22:15,585
+... e você acabou de começar a fazer café da manhã.
+
+1011
+01:22:15,674 --> 01:22:18,426
+Você estava pronto para comer e ouviu um tiro.
+
+1012
+01:22:18,593 --> 01:22:23,670
+Então, obviamente, você leva cinco minutos para fazer o café da manhã, então você sabia disso.
+
+1013
+01:22:23,765 --> 01:22:26,435
+- Você se lembra do que você tinha? - Ovos e grãos.
+
+1014
+01:22:26,643 --> 01:22:28,600
+Ovos e grãos. Eu também gosto de grãos.
+
+1015
+01:22:29,938 --> 01:22:34,315
+Como você cozinha seus grãos? Você gosta de eles regulares, cremosos ou al dente?
+
+1016
+01:22:36,570 --> 01:22:40,402
+- Apenas regular, eu acho. - regular. Grits instantâneos?
+
+1017
+01:22:40,616 --> 01:22:45,361
+Nenhum sul-respeitoso 'Southerner usa grãos instantâneos. Eu tenho orgulho em meus grãos.
+
+1018
+01:22:46,872 --> 01:22:48,663
+Então, Sr. Tipton.
+
+1019
+01:22:49,499 --> 01:22:53,663
+Como você poderia levar cinco minutos para cozinhar seus grãos ...
+
+1020
+01:22:53,962 --> 01:22:59,383
+... Quando leva todo o mundo que come grão 20 minutos?
+
+1021
+01:23:05,265 --> 01:23:08,052
+Eu não sei. Eu sou um cozinheiro rápido, eu acho.
+
+1022
+01:23:08,727 --> 01:23:14,231
+Sinto muito, eu estava aqui. Eu não conseguia ouvir. Você disse que é um cozinheiro rápido? É isso?!
+
+1023
+01:23:14,900 --> 01:23:21,020
+Devemos acreditar que a água fervente absorve uma coragem mais rápida em sua cozinha ...
+
+1024
+01:23:21,114 --> 01:23:24,115
+... do que em qualquer lugar na face da terra?
+
+1025
+01:23:25,035 --> 01:23:26,233
+Não sei.
+
+1026
+01:23:26,328 --> 01:23:30,160
+Talvez as leis da física deixem de existir em seu fogão!
+
+1027
+01:23:31,291 --> 01:23:33,913
+Esses grãos mágicos eram?
+
+1028
+01:23:34,002 --> 01:23:38,830
+Você os comprou do mesmo cara que vendeu Jack seu feijão?
+
+1029
+01:23:38,924 --> 01:23:41,249
+- Objeção, sua honra. - sustentado.
+
+1030
+01:23:41,343 --> 01:23:45,471
+- Você tem certeza sobre esses cinco minutos? - Não sei.
+
+1031
+01:23:45,681 --> 01:23:50,058
+- Acho que você fez o seu ponto. - Você tem certeza sobre esses cinco minutos?
+
+1032
+01:23:53,063 --> 01:23:55,601
+Eu posso ter sido enganado.
+
+1033
+01:23:57,526 --> 01:24:00,064
+Não tenho mais uso para esse cara.
+
+1034
+01:24:03,573 --> 01:24:05,365
+(aplausos solitários)
+
+1035
+01:24:08,662 --> 01:24:10,571
+Você está demitido.
+
+1036
+01:24:10,664 --> 01:24:12,740
+Eu o quero.
+
+1037
+01:24:14,042 --> 01:24:16,118
+Vamos lá, agora. Mova -o.
+
+1038
+01:24:17,087 --> 01:24:21,251
+- Não se preocupe. Eu vou te socorrer. - Não. Vou ficar na prisão esta noite.
+
+1039
+01:24:21,341 --> 01:24:25,173
+Talvez eu possa finalmente dormir um pouco. Estou fazendo bem, hein?
+
+1040
+01:24:26,054 --> 01:24:28,130
+(prisioneiros gritando)
+
+1041
+01:24:28,223 --> 01:24:30,299
+(sirene)
+
+1042
+01:24:33,937 --> 01:24:36,013
+(um apito sopra)
+
+1043
+01:24:43,405 --> 01:24:45,647
+Ei, como você está fazendo?
+
+1044
+01:24:46,366 --> 01:24:49,782
+Ei, Sr. Crane. Do que são essas fotos?
+
+1045
+01:24:51,705 --> 01:24:55,156
+- minha casa e outras coisas. - Casa e outras coisas.
+
+1046
+01:24:55,250 --> 01:24:59,793
+E o que é esse material marrom nas janelas?
+
+1047
+01:25:00,714 --> 01:25:02,956
+- Sujeira. - Sujeira.
+
+1048
+01:25:04,134 --> 01:25:09,425
+O que é essa coisa enferrujada, empoeirada e suja-iookin sobre sua janela?
+
+1049
+01:25:11,516 --> 01:25:14,090
+- É uma tela. - Uma tela!
+
+1050
+01:25:14,186 --> 01:25:16,059
+É uma tela.
+
+1051
+01:25:16,647 --> 01:25:21,771
+Quais são essas coisas realmente grandes no meio da sua visão ...
+
+1052
+01:25:21,860 --> 01:25:25,063
+... Da janela da sua cozinha até os sac-o-sudos?
+
+1053
+01:25:25,656 --> 01:25:28,325
+Como chamamos essas grandes coisas?
+
+1054
+01:25:30,577 --> 01:25:32,736
+- Árvores? - Árvores, isso mesmo.
+
+1055
+01:25:32,829 --> 01:25:35,534
+Não tenha medo. Apenas grite quando você souber.
+
+1056
+01:25:35,624 --> 01:25:40,167
+Agora, quais são essas milhares de pequenas coisas que estão nas árvores?
+
+1057
+01:25:42,255 --> 01:25:44,332
+- Folhas. - Folhas!
+
+1058
+01:25:44,424 --> 01:25:46,334
+(rindo)
+
+1059
+01:25:46,426 --> 01:25:49,546
+E essas coisas espessas entre as árvores?
+
+1060
+01:25:50,097 --> 01:25:51,639
+- arbustos. - arbustos!
+
+1061
+01:25:51,723 --> 01:25:54,049
+Então, Sr. Crane.
+
+1062
+01:25:54,142 --> 01:25:59,978
+Você pode identificar positivamente os réus por um momento de dois segundos ...
+
+1063
+01:26:00,440 --> 01:26:03,275
+... iooking através desta janela suja ...
+
+1064
+01:26:03,860 --> 01:26:06,268
+... esta tela coberta de crud
+
+1065
+01:26:06,905 --> 01:26:11,448
+... essas árvores com todas essas folhas nelas ...
+
+1066
+01:26:11,535 --> 01:26:14,156
+... e eu não sei quantos arbustos.
+
+1067
+01:26:18,292 --> 01:26:22,076
+- Parece cinco. - uh-uh. Não se esqueça deste e deste.
+
+1068
+01:26:22,296 --> 01:26:25,711
+- Sete arbustos. - Sete arbustos. Então, o que você acha?
+
+1069
+01:26:25,799 --> 01:26:29,548
+É possível que você tenha visto dois caras em um conversível verde ...
+
+1070
+01:26:29,636 --> 01:26:33,764
+... e não necessariamente esses dois caras em particular?
+
+1071
+01:26:35,517 --> 01:26:38,933
+- Eu suponho. - Eu terminei com esse cara.
+
+1072
+01:26:46,945 --> 01:26:51,572
+Sra. Riley, quando você viu os réus, você estava usando seus óculos?
+
+1073
+01:26:51,658 --> 01:26:54,232
+Sim, eu era.
+
+1074
+01:26:54,328 --> 01:26:56,534
+Aqui, querida.
+
+1075
+01:26:58,206 --> 01:27:02,074
+Você se importaria de colocar seus óculos para nós, por favor?
+
+1076
+01:27:06,965 --> 01:27:11,508
+- Uau! Há quanto tempo você está usando óculos? - Desde que eu tinha seis anos.
+
+1077
+01:27:11,845 --> 01:27:16,840
+- Eles sempre foram tão grossos? - Oh não. Eles ficaram mais grossos ao longo dos anos.
+
+1078
+01:27:16,933 --> 01:27:21,928
+Então, à medida que seus olhos ficaram cada vez mais fora, à medida que você ficou mais velho ...
+
+1079
+01:27:22,022 --> 01:27:25,438
+... Quantos níveis diferentes de espessura você passou?
+
+1080
+01:27:25,525 --> 01:27:30,946
+Oh, eu não sei. Mais de sessenta anos, talvez dez vezes.
+
+1081
+01:27:31,323 --> 01:27:36,863
+- Talvez você esteja pronto para um conjunto mais espesso. - Oh não. Não, acho que eles estão bem.
+
+1082
+01:27:36,954 --> 01:27:39,789
+Talvez devêssemos ter certeza. Vamos dar uma olhada.
+
+1083
+01:27:45,087 --> 01:27:51,255
+Agora, quão longe os réus estavam de você quando os viu entrando no sac-o-suds?
+
+1084
+01:27:51,343 --> 01:27:54,628
+- cerca de 100 pés. - 100 pés.
+
+1085
+01:27:54,721 --> 01:27:57,259
+Você seguraria isso, por favor? Obrigado.
+
+1086
+01:28:00,644 --> 01:28:04,227
+Desculpe. Com licença. Desculpe. Desculpe.
+
+1087
+01:28:07,526 --> 01:28:12,864
+OK. Isso é de 50 pés. Isso é metade da distância.
+
+1088
+01:28:13,490 --> 01:28:16,693
+Quantos dedos estou me segurando?
+
+1089
+01:28:17,494 --> 01:28:21,658
+Deixe os registros mostrarem que o advogado está segurando dois dedos.
+
+1090
+01:28:21,748 --> 01:28:23,990
+Sua honra, por favor, hein?!
+
+1091
+01:28:24,084 --> 01:28:26,871
+Oh. Desculpe.
+
+1092
+01:28:27,796 --> 01:28:30,121
+Agora, Sra. Riley ...
+
+1093
+01:28:30,215 --> 01:28:32,540
+... e apenas a Sra. Riley ...
+
+1094
+01:28:34,428 --> 01:28:37,345
+... Quantos dedos estou me segurando agora?
+
+1095
+01:28:43,061 --> 01:28:45,137
+- quatro. - (suspiros públicos)
+
+1096
+01:28:49,943 --> 01:28:52,268
+O que você acha agora, querida?
+
+1097
+01:28:52,362 --> 01:28:53,773
+Oh.
+
+1098
+01:28:53,864 --> 01:28:57,067
+Estou pensando em ter óculos mais grossos.
+
+1099
+01:28:57,159 --> 01:28:59,235
+(Vinny) Obrigado.
+
+1100
+01:29:03,790 --> 01:29:05,866
+(Tabela de telefone)
+
+1101
+01:29:08,295 --> 01:29:10,750
+- Olá. - Você fez bem lá fora hoje, Yankee.
+
+1102
+01:29:10,839 --> 01:29:15,501
+Eu gosto da competição. Você também gosta de competição? Faz as coisas meio divertidas, não é?
+
+1103
+01:29:15,719 --> 01:29:19,764
+- Estou me divertindo até agora. - Eu tive uma pequena surpresa para você amanhã.
+
+1104
+01:29:19,848 --> 01:29:23,715
+O que é isso? Você sabe que precisa divulgar todas as suas evidências para mim.
+
+1105
+01:29:23,810 --> 01:29:29,267
+Acabei de conseguir isso sozinho. Vou divulgá -lo logo de manhã. Juiz vai ter que admitir.
+
+1106
+01:29:30,108 --> 01:29:33,608
+- Devo ficar preocupado? - Eu com certeza seria se fosse você.
+
+1107
+01:29:41,161 --> 01:29:45,373
+Querida, onde você leu sobre toda essa merda de divulgação?
+
+1108
+01:29:45,457 --> 01:29:47,948
+Deixe -me mostrar a você. Por que?
+
+1109
+01:29:48,502 --> 01:29:53,329
+Sou um instrutor automotivo especial de estudos forenses para o FBI.
+
+1110
+01:29:54,049 --> 01:29:56,622
+- Há quanto tempo você está nessa posição? - 18 anos.
+
+1111
+01:29:56,718 --> 01:30:00,218
+Sua honra. Podemos abordar o banco, por favor?
+
+1112
+01:30:00,305 --> 01:30:02,381
+Se desejar.
+
+1113
+01:30:09,648 --> 01:30:12,269
+Eu me oponho a essa testemunha ser chamada neste momento.
+
+1114
+01:30:12,359 --> 01:30:18,065
+Não recebemos nenhum aviso prévio que ele testemunharia, nenhuma descoberta de quaisquer testes que ele conduziu ...
+
+1115
+01:30:18,156 --> 01:30:23,151
+... e a defesa tem o direito de avançar a notificação de qualquer testemunha que testemunhará ...
+
+1116
+01:30:23,245 --> 01:30:28,785
+... particularmente aqueles que dão evidências científicas, para que possamos nos preparar para o interrogatório ...
+
+1117
+01:30:28,875 --> 01:30:33,668
+... e dar à defesa a oportunidade de ter relatórios revisados ​​por um especialista em defesa ...
+
+1118
+01:30:33,755 --> 01:30:38,916
+... quem pode estar em posição de contradizer a veracidade de suas conclusões.
+
+1119
+01:30:40,345 --> 01:30:42,302
+- Sr. Gambini. - Sim, senhor.
+
+1120
+01:30:42,389 --> 01:30:46,090
+Essa é uma objeção lúcida, inteligente e bem pensada.
+
+1121
+01:30:46,560 --> 01:30:49,680
+- Obrigado, sua honra. - anulado.
+
+1122
+01:30:58,155 --> 01:31:00,231
+Agora, Sr. Wilbur.
+
+1123
+01:31:02,034 --> 01:31:06,992
+Estas são fotos de pneus pertencentes ao carro dos réus.
+
+1124
+01:31:07,080 --> 01:31:12,786
+E estas são fotos das marcas de pneus deixadas pelo carro dos agressores ao fugir da loja.
+
+1125
+01:31:12,878 --> 01:31:15,713
+- Agora, você está familiarizado com isso? - Sim eu sou.
+
+1126
+01:31:15,797 --> 01:31:18,834
+Uh-huh. Você poderia elaborar, por favor, senhor?
+
+1127
+01:31:18,925 --> 01:31:22,591
+Comparamos as marcas de pneus fora da loja de conveniência ...
+
+1128
+01:31:22,679 --> 01:31:25,846
+... com os pneus traseiros do carro dos réus.
+
+1129
+01:31:25,932 --> 01:31:29,266
+Eles são o mesmo modelo e pneu de tamanho.
+
+1130
+01:31:29,353 --> 01:31:33,397
+Modelo Michelin XGV, tamanho 75R, roda de 14 polegadas.
+
+1131
+01:31:33,690 --> 01:31:36,561
+Eles são do mesmo tamanho e pneu modelo.
+
+1132
+01:31:37,694 --> 01:31:39,734
+- Mais alguma coisa, senhor? - Sim, de fato.
+
+1133
+01:31:39,821 --> 01:31:44,318
+O carro, deixando a loja de conveniência, girou seus pneus traseiros dramaticamente ...
+
+1134
+01:31:44,409 --> 01:31:46,651
+... e deixou um resíduo de borracha no asfalto.
+
+1135
+01:31:46,745 --> 01:31:50,079
+Agora, peguei uma amostra dessa borracha e a analiei.
+
+1136
+01:31:50,165 --> 01:31:52,241
+Eu também peguei uma amostra da borracha ...
+
+1137
+01:31:52,334 --> 01:31:56,332
+... dos pneus traseiros do Buick dos réus e analisou isso também.
+
+1138
+01:31:56,421 --> 01:31:59,755
+Que tipo de equipamento você usou para descobrir isso?
+
+1139
+01:32:00,050 --> 01:32:02,126
+Eu usei um hewlett-packard 57-10a ...
+
+1140
+01:32:02,302 --> 01:32:06,134
+... cromatógrafo a gás de dupla coluna com detectores de analisação de chama.
+
+1141
+01:32:06,223 --> 01:32:09,639
+- Uh-huh. Essa coisa é turbo? - (risada)
+
+1142
+01:32:09,977 --> 01:32:12,764
+- Somente nos modelos do piso. - (risada)
+
+1143
+01:32:12,854 --> 01:32:16,899
+Agora, Sr. Wilbur. Qual foi o resultado de sua análise?
+
+1144
+01:32:16,984 --> 01:32:21,859
+A composição química entre as duas amostras foi considerada idêntica.
+
+1145
+01:32:21,947 --> 01:32:24,652
+L-Dentical!
+
+1146
+01:32:29,496 --> 01:32:31,821
+Não há mais perguntas, sua honra.
+
+1147
+01:32:32,708 --> 01:32:35,662
+- Sua honra. - Obrigado, Sr. Wilbur.
+
+1148
+01:32:37,754 --> 01:32:40,506
+O Tribunal fará um recesso de 60 minutos para o almoço.
+
+1149
+01:32:40,882 --> 01:32:46,173
+Sua homenagem, eu respeitosamente solicito uma continuidade de um dia inteiro para examinar essas coisas.
+
+1150
+01:32:46,346 --> 01:32:49,051
+- solicitação negada. - Muito obrigado.
+
+1151
+01:32:49,141 --> 01:32:51,513
+- e, Sr. Gambini. - Sim, senhor?
+
+1152
+01:32:52,352 --> 01:32:55,223
+Eu gostaria de falar com você em minhas câmaras.
+
+1153
+01:32:55,856 --> 01:32:57,932
+- Você é um homem morto. - Eu sou um homem morto?
+
+1154
+01:32:58,025 --> 01:33:01,974
+Fiz fax o secretário de Nova York e perguntei o que ele sabia sobre Jerry Gallo.
+
+1155
+01:33:02,070 --> 01:33:04,146
+Você quer saber o que ele respondeu?
+
+1156
+01:33:04,239 --> 01:33:06,777
+- Você disse "Jerry Gallo"? - Sim, eu fiz.
+
+1157
+01:33:06,867 --> 01:33:08,943
+- Gallo com um g? - Isso mesmo.
+
+1158
+01:33:09,036 --> 01:33:11,408
+Jerry Gallo está morto!
+
+1159
+01:33:11,496 --> 01:33:15,115
+- Estou ciente disso. - bem, eu não sou Jerry Gallo!
+
+1160
+01:33:15,208 --> 01:33:19,123
+Eu sou Jerry Callo! C-A-L-L-O.
+
+1161
+01:33:25,385 --> 01:33:27,461
+Tudo bem.
+
+1162
+01:33:28,555 --> 01:33:30,631
+Tudo bem.
+
+1163
+01:33:35,646 --> 01:33:38,812
+Vamos esclarecer isso agora.
+
+1164
+01:33:47,032 --> 01:33:49,487
+Olá. Este é o juiz Chamberlain Haller.
+
+1165
+01:33:49,576 --> 01:33:51,984
+Posso falar com o funcionário?
+
+1166
+01:33:53,455 --> 01:33:55,613
+OK. Eu estarei aqui.
+
+1167
+01:33:57,000 --> 01:33:59,787
+Ele vai ligar de volta depois das três.
+
+1168
+01:33:59,878 --> 01:34:02,547
+Isso lhe dá uma suspensão de execução.
+
+1169
+01:34:03,423 --> 01:34:08,216
+A menos que, por algum milagre, você vence este caso nos próximos 90 minutos.
+
+1170
+01:34:11,348 --> 01:34:13,673
+Por que você não vai almoçar?
+
+1171
+01:34:27,072 --> 01:34:29,361
+Obrigado.
+
+1172
+01:34:37,332 --> 01:34:40,084
+- Eu tenho minhas fotos de volta. - Oh, bom.
+
+1173
+01:34:41,211 --> 01:34:43,583
+O que o juiz disse?
+
+1174
+01:34:43,672 --> 01:34:47,041
+Ele disse que descobriu que Gallo está morto.
+
+1175
+01:34:47,968 --> 01:34:50,541
+Ele descobriu. O que ele disse?
+
+1176
+01:34:51,972 --> 01:34:56,598
+Lisa ... estou tentando pensar no caso agora, ok? Desculpe.
+
+1177
+01:34:59,563 --> 01:35:01,935
+- Posso ajudar? - "Posso ajudar?"
+
+1178
+01:35:02,024 --> 01:35:05,274
+Não, você não pode ajudar. Eu gostaria que você pudesse, mas você não pode.
+
+1179
+01:35:08,697 --> 01:35:11,982
+Ok, você está olhando para mim. O que isso deveria significar?
+
+1180
+01:35:12,075 --> 01:35:16,405
+Eu sou um pedaço de merda porque não consigo descobrir uma maneira de você ajudar?
+
+1181
+01:35:18,790 --> 01:35:21,910
+Ok, você está ajudando. Vou usar suas fotos.
+
+1182
+01:35:22,002 --> 01:35:25,620
+Ahh! Isso vai ser ... me desculpe. Isso vai ser uma ajuda.
+
+1183
+01:35:25,714 --> 01:35:28,419
+Eu deveria ter olhado para essas fotos antes.
+
+1184
+01:35:28,508 --> 01:35:33,633
+Eu gosto deste. Este é o nosso primeiro quarto de hotel, certo? Isso vai intimidar trotter.
+
+1185
+01:35:33,722 --> 01:35:35,715
+Aqui está um de mim por trás.
+
+1186
+01:35:35,807 --> 01:35:39,259
+Não achei que eu pudesse me sentir pior do que há um segundo. Obrigado.
+
+1187
+01:35:39,353 --> 01:35:43,765
+Ahh, aqui está uma boa das marcas dos pneus. Podemos ir mais longe?
+
+1188
+01:35:43,857 --> 01:35:46,313
+De onde você tirou isso? Em uma árvore?
+
+1189
+01:35:46,401 --> 01:35:48,727
+O que é isso aqui?
+
+1190
+01:35:50,572 --> 01:35:53,608
+É uma merda de cachorro. Merda de cachorro! Isso é ótimo.
+
+1191
+01:35:53,700 --> 01:35:56,487
+Merda de cachorro! Que pista! Por que não pensei nisso?
+
+1192
+01:35:56,578 --> 01:36:01,324
+Aqui está um de mim lendo. Eu deveria ter lhe pedido há muito tempo para essas fotos.
+
+1193
+01:36:01,416 --> 01:36:04,121
+Puta merda! Você entendeu, querida!
+
+1194
+01:36:04,211 --> 01:36:08,540
+Você fez isso! O caso Cracker (!) Me no chuveiro!
+
+1195
+01:36:08,757 --> 01:36:11,046
+Eu amo isto! É isso!
+
+1196
+01:36:11,134 --> 01:36:14,301
+É isso. Estou fora aqui.
+
+1197
+01:36:17,140 --> 01:36:19,216
+Lisa!
+
+1198
+01:36:20,435 --> 01:36:22,511
+Lisa!
+
+1199
+01:36:24,106 --> 01:36:26,182
+Desculpe.
+
+1200
+01:36:26,525 --> 01:36:28,149
+Porra!
+
+1201
+01:36:42,708 --> 01:36:44,866
+Eu sei que estou sentindo falta de algo.
+
+1202
+01:37:04,313 --> 01:37:06,519
+Você encontrou alguma coisa?
+
+1203
+01:37:06,606 --> 01:37:08,683
+Muito, muito pouco.
+
+1204
+01:37:09,609 --> 01:37:11,851
+- Algo? - nada.
+
+1205
+01:37:15,657 --> 01:37:24,365
+É possível que dois carros separados possam estar dirigindo no Michelin Modelo XGV 75R-14s?
+
+1206
+01:37:25,083 --> 01:37:27,954
+- Claro. - Deixe -me perguntar isso.
+
+1207
+01:37:28,045 --> 01:37:33,122
+Qual é o pneu de modelo único mais vendido que está sendo vendido nos Estados Unidos hoje?
+
+1208
+01:37:34,301 --> 01:37:36,210
+O Michelin XGV.
+
+1209
+01:37:36,303 --> 01:37:39,838
+- E qual é o tamanho mais popular? - 75R-14.
+
+1210
+01:37:40,307 --> 01:37:43,308
+O mesmo tamanho do carro dos réus.
+
+1211
+01:37:43,935 --> 01:37:47,980
+Mas dois Buick Skylark de 1964 desbotados conversíveis?
+
+1212
+01:37:48,065 --> 01:37:51,434
+Com licença. O que estou perguntando a você ...
+
+1213
+01:37:51,526 --> 01:37:56,484
+... é se o tamanho mais popular do pneu mais popular ...
+
+1214
+01:37:56,573 --> 01:37:58,649
+... está no carro dos réus?
+
+1215
+01:37:59,117 --> 01:38:01,276
+Bem...
+
+1216
+01:38:01,370 --> 01:38:02,947
+...sim.
+
+1217
+01:38:04,456 --> 01:38:06,116
+Sim.
+
+1218
+01:38:06,208 --> 01:38:08,284
+Hum, obrigado.
+
+1219
+01:38:09,711 --> 01:38:12,119
+Sem perguntas adicionais.
+
+1220
+01:38:13,548 --> 01:38:16,122
+(Juiz) A testemunha pode descer.
+
+1221
+01:38:16,885 --> 01:38:18,676
+Conselho.
+
+1222
+01:38:18,762 --> 01:38:22,345
+(Trotter) uh. Sim. A acusação repousa.
+
+1223
+01:38:26,144 --> 01:38:29,394
+(Juiz) Sr. Gambini. Sua primeira testemunha.
+
+1224
+01:38:40,534 --> 01:38:42,657
+Sr. Gambini.
+
+1225
+01:38:43,412 --> 01:38:46,697
+Vou perguntar mais uma vez e mais uma vez.
+
+1226
+01:38:46,790 --> 01:38:50,076
+- Se eu te perguntar de novo ... - sua honra, uh ...
+
+1227
+01:38:50,168 --> 01:38:53,288
+Por favor, posso fazer um recesso de cinco minutos?
+
+1228
+01:38:54,131 --> 01:38:58,757
+- Minha próxima testemunha não está no tribunal. - três minutos. Não mais.
+
+1229
+01:39:11,523 --> 01:39:14,643
+Xerife, faça -me um favor. Por favor, rastreie isso.
+
+1230
+01:39:14,735 --> 01:39:20,321
+- Não é o meu trabalho. Faça seu próprio investigação. - Por favor. Eu só tenho três minutos.
+
+1231
+01:39:25,912 --> 01:39:29,613
+Lisa. Lisa, por favor. Desculpe. Sinto muito, ok?
+
+1232
+01:39:29,708 --> 01:39:32,709
+Eu preciso de você no tribunal e preciso do telefone.
+
+1233
+01:39:32,794 --> 01:39:37,088
+Querida, vamos lá. Pare! Eu preciso do telefone. Temos que fazer as pazes. Vamos fazer as pazes.
+
+1234
+01:39:37,174 --> 01:39:40,128
+Temos que voltar para dentro. Todo mundo está esperando por nós.
+
+1235
+01:39:40,218 --> 01:39:42,294
+- Não temos muito tempo. - Cale-se.
+
+1236
+01:39:42,387 --> 01:39:44,676
+- me dê isso! - foda -se!
+
+1237
+01:39:44,765 --> 01:39:47,006
+O que há com você com essa boca?
+
+1238
+01:39:47,100 --> 01:39:51,394
+Sr. Gambini. Diga -me o porquê.
+
+1239
+01:39:53,231 --> 01:39:57,395
+- Lisa, preciso da sua ajuda. - Eu não dou a mínima. Deixe -me em paz!
+
+1240
+01:39:58,070 --> 01:40:00,358
+- Vamos lá, eu encontrei. - (Lisa grita)
+
+1241
+01:40:05,786 --> 01:40:09,866
+Sua homenagem, a defesa chama como sua primeira testemunha Miss Mona Lisa Vito.
+
+1242
+01:40:09,957 --> 01:40:13,575
+Oh, eu me oponho, sua honra. Essa pessoa não está na lista de testemunhas.
+
+1243
+01:40:13,794 --> 01:40:16,249
+Esta testemunha é um especialista em automóveis ...
+
+1244
+01:40:16,338 --> 01:40:20,205
+... e está sendo chamado para refutar o testemunho de George Wilbur.
+
+1245
+01:40:21,343 --> 01:40:26,337
+Sua homenagem, você instruiria o oficial de justiça a escoltar Miss Vito até o estande das testemunhas?
+
+1246
+01:40:39,945 --> 01:40:42,981
+Segure sua mão direita. Você juram dizer a verdade ...
+
+1247
+01:40:43,156 --> 01:40:46,407
+... toda a verdade, e nada além da verdade? - Sim.
+
+1248
+01:40:51,748 --> 01:40:58,712
+Miss Vito. Você deveria ser um pouco especialista em automóveis. Isso está correto?
+
+1249
+01:41:02,009 --> 01:41:04,250
+Isso está correto?
+
+1250
+01:41:06,013 --> 01:41:10,141
+- Você vai responder ao conselho? - Não. Eu o odeio.
+
+1251
+01:41:10,225 --> 01:41:13,808
+Sua honra, posso tratar a senhorita Vito como uma testemunha hostil?
+
+1252
+01:41:13,895 --> 01:41:17,430
+Você acha que sou hostil agora, espere até que você me veja esta noite.
+
+1253
+01:41:17,524 --> 01:41:21,107
+- Vocês dois se conhecem? - Sim, ela é minha noiva.
+
+1254
+01:41:21,194 --> 01:41:24,065
+Bem, isso certamente explicaria a hostilidade.
+
+1255
+01:41:24,156 --> 01:41:26,943
+Eu me opondo a esta testemunha. Fundação Improvante.
+
+1256
+01:41:27,034 --> 01:41:29,785
+Não estou ciente das qualificações dessa pessoa.
+
+1257
+01:41:29,870 --> 01:41:35,706
+Gostaria de dar uma testemunha sobre a extensão de sua experiência.
+
+1258
+01:41:36,710 --> 01:41:38,916
+Garantido.
+
+1259
+01:41:39,004 --> 01:41:41,495
+- Sr. Trotter, você pode prosseguir. - mm-hm.
+
+1260
+01:41:43,842 --> 01:41:47,092
+Miss Vito, qual é a sua profissão atual?
+
+1261
+01:41:47,179 --> 01:41:50,927
+-Eu sou um cabeleireiro fora do trabalho. -cabeleireiro fora do trabalho.
+
+1262
+01:41:51,016 --> 01:41:54,966
+Agora, de que maneira isso o qualifica como especialista em automóveis?
+
+1263
+01:41:55,062 --> 01:41:58,596
+- Não. - Bem, de que maneira você está qualificado?
+
+1264
+01:41:59,316 --> 01:42:02,068
+Bem, meu pai era mecânico.
+
+1265
+01:42:02,152 --> 01:42:06,232
+Seu pai era mecânico. O pai da minha mãe era mecânico.
+
+1266
+01:42:06,323 --> 01:42:09,941
+Meus três irmãos são mecânicos. Quatro tios do lado do meu pai ...
+
+1267
+01:42:10,035 --> 01:42:13,155
+Miss Vito, sua família está obviamente qualificada.
+
+1268
+01:42:13,246 --> 01:42:16,865
+Mas uh ... você já trabalhou como mecânico?
+
+1269
+01:42:16,959 --> 01:42:20,826
+- Sim. Na garagem do meu pai, sim. - Como mecânico?
+
+1270
+01:42:24,424 --> 01:42:27,425
+O que você fez na garagem de seu pai?
+
+1271
+01:42:27,970 --> 01:42:31,089
+Sintonizações, trocas de óleo, transferência de freio ...
+
+1272
+01:42:31,181 --> 01:42:33,968
+... Reconstrução do motor, reconstrução em tranenies ...
+
+1273
+01:42:34,059 --> 01:42:40,477
+OK. OK. Mas ser um ex-mecânico o qualifica como especialista em marcas de pneus?
+
+1274
+01:42:40,565 --> 01:42:43,401
+Não. Obrigado. Adeus.
+
+1275
+01:42:43,485 --> 01:42:46,984
+Sente -se e fique lá até dizer para sair.
+
+1276
+01:42:49,950 --> 01:42:54,493
+Sua honra. A experiência da Miss Vito é no conhecimento automotivo geral.
+
+1277
+01:42:54,955 --> 01:42:58,240
+É nessa área que seu testemunho será aplicável.
+
+1278
+01:42:58,333 --> 01:43:01,702
+Agora, se o Sr. Trotter desejar Voir ters a testemunha ...
+
+1279
+01:43:01,962 --> 01:43:04,832
+... Quanto à extensão de sua experiência nesta área ...
+
+1280
+01:43:05,048 --> 01:43:09,426
+... Tenho certeza de que ele ficará mais do que satisfeito.
+
+1281
+01:43:10,804 --> 01:43:11,835
+OK.
+
+1282
+01:43:13,974 --> 01:43:16,429
+Tudo bem. Tudo bem.
+
+1283
+01:43:16,518 --> 01:43:19,187
+Agora, uh ... Senhorita Vito.
+
+1284
+01:43:19,896 --> 01:43:23,479
+Sendo um especialista em conhecimento automotivo geral ...
+
+1285
+01:43:24,985 --> 01:43:27,558
+...você pode me dizer...
+
+1286
+01:43:27,654 --> 01:43:33,241
+... Qual seria o tempo de ignição correto em um Bel Air Chevrolet de 1955 ...
+
+1287
+01:43:33,327 --> 01:43:36,078
+... com um motor de 327 polegadas cúbicas ...
+
+1288
+01:43:36,163 --> 01:43:38,701
+... e um carburador de quatro barris?
+
+1289
+01:43:38,790 --> 01:43:42,658
+- Essa é uma questão de besteira. - Isso significa que você não pode responder?
+
+1290
+01:43:42,753 --> 01:43:44,994
+É impossível responder.
+
+1291
+01:43:45,088 --> 01:43:49,133
+- Porque você não sabe a resposta! - Ninguém poderia responder a essa pergunta.
+
+1292
+01:43:49,217 --> 01:43:54,294
+Sua homenagem, eu passo para desqualificar a senhorita Vito como uma testemunha especializada.
+
+1293
+01:43:54,389 --> 01:43:58,090
+- Você pode responder à pergunta? - Não. É uma questão de truque.
+
+1294
+01:43:58,477 --> 01:44:00,553
+Por que é uma questão de truque?
+
+1295
+01:44:01,104 --> 01:44:04,556
+- Assista isso. - Cos Chevy não fez 327 em '55.
+
+1296
+01:44:04,650 --> 01:44:06,891
+O 327 não saiu até 62.
+
+1297
+01:44:06,985 --> 01:44:10,650
+E não foi oferecido no Bel Air com um carboidrato de quatro barris até 64.
+
+1298
+01:44:10,739 --> 01:44:14,274
+No entanto, em 1964, o tempo correto da ignição ...
+
+1299
+01:44:14,368 --> 01:44:17,037
+... seria quatro graus antes do centro morto.
+
+1300
+01:44:19,790 --> 01:44:22,197
+Bem ... uh ...
+
+1301
+01:44:25,003 --> 01:44:27,494
+Ela é aceitável, sua honra.
+
+1302
+01:44:30,342 --> 01:44:36,261
+Sua homenagem, esta é uma foto tirada pelo meu noivo fora dos sac-sudos.
+
+1303
+01:44:36,348 --> 01:44:38,720
+Podemos concordar com isso?
+
+1304
+01:44:39,476 --> 01:44:41,765
+- Sim. - Obrigado.
+
+1305
+01:44:42,479 --> 01:44:46,808
+Eu gostaria de enviar esta foto das faixas de pneus como evidência.
+
+1306
+01:44:47,609 --> 01:44:49,685
+Sr. Trotter.
+
+1307
+01:44:50,862 --> 01:44:53,353
+Sem objeção, sua honra.
+
+1308
+01:44:59,121 --> 01:45:02,786
+- Miss Vito. Você tirou essa foto? - Você sabe que eu fiz.
+
+1309
+01:45:02,874 --> 01:45:06,493
+- E de que é essa imagem? - Você sabe do que é.
+
+1310
+01:45:06,586 --> 01:45:11,498
+Miss Vito, foi argumentado por mim, a defesa ...
+
+1311
+01:45:11,591 --> 01:45:16,586
+... Aqueles dois conjuntos de caras se encontraram no Sac-O-Suds, ao mesmo tempo ...
+
+1312
+01:45:16,680 --> 01:45:23,513
+... Dirigindo conversíveis de Skylark Buick Skylark de 1964 de 1964.
+
+1313
+01:45:24,062 --> 01:45:27,597
+Agora, você pode nos dizer, pelo que você vê nesta foto ...
+
+1314
+01:45:27,691 --> 01:45:30,443
+... se o caso da defesa mantém água?
+
+1315
+01:45:38,869 --> 01:45:42,238
+Miss Vito. Por favor, responda a pergunta.
+
+1316
+01:45:42,331 --> 01:45:45,450
+O caso da defesa mantém água?
+
+1317
+01:45:50,756 --> 01:45:52,748
+Não.
+
+1318
+01:45:52,841 --> 01:45:56,969
+- A defesa está errada. - (murmurando)
+
+1319
+01:45:58,388 --> 01:46:02,718
+- Tem certeza? - Estou positivo.
+
+1320
+01:46:03,018 --> 01:46:05,176
+Como você pode ter tanta certeza?
+
+1321
+01:46:06,229 --> 01:46:10,726
+Porque não há como essas marcas de pneus terem sido feitas por um Skylark '64 Buick.
+
+1322
+01:46:10,817 --> 01:46:15,147
+Essas marcas foram feitas por uma tempestade Pontiac de 1963.
+
+1323
+01:46:15,238 --> 01:46:19,532
+Objeção. Podemos esclarecer se a testemunha está declarando opinião ou fato?
+
+1324
+01:46:19,618 --> 01:46:22,323
+- Esta é a sua opinião? - É um fato.
+
+1325
+01:46:22,412 --> 01:46:27,074
+Acho difícil acreditar que esse tipo de informação ...
+
+1326
+01:46:27,167 --> 01:46:30,666
+... poderia ser verificado simplesmente olhando para uma foto!
+
+1327
+01:46:31,088 --> 01:46:33,045
+Você gostaria que eu explicasse?
+
+1328
+01:46:33,131 --> 01:46:37,046
+- Eu adoraria ouvir isso. - Eu também.
+
+1329
+01:46:37,386 --> 01:46:42,344
+O carro que fabricou essas duas marcas de pneus de comprimento igual tinha positração.
+
+1330
+01:46:42,432 --> 01:46:48,684
+Não posso fazer essas marcas sem positração, que não estava disponível no Skylark '64.
+
+1331
+01:46:48,772 --> 01:46:53,683
+- E por que não? O que é positraction? - É um diferencial de deslizamento limitado ...
+
+1332
+01:46:53,777 --> 01:46:57,775
+... que distribui a energia igualmente para os pneus direito e esquerdo.
+
+1333
+01:46:57,864 --> 01:47:00,782
+O Skylark '64 tinha um diferencial regular ...
+
+1334
+01:47:00,867 --> 01:47:03,619
+... que, quem está preso na lama sabe ...
+
+1335
+01:47:03,704 --> 01:47:07,653
+... Você pisa no gás, um pneu gira, o outro não faz nada.
+
+1336
+01:47:07,749 --> 01:47:09,742
+Isso mesmo.
+
+1337
+01:47:09,835 --> 01:47:11,662
+- É isso? - Não. Há mais.
+
+1338
+01:47:11,753 --> 01:47:16,878
+Quando a marca do pneu esquerda sobe no meio -fio e o pneu direito permanece plano e até ...
+
+1339
+01:47:16,967 --> 01:47:20,300
+Bem, o Skylark '64 tinha um eixo traseiro sólido ...
+
+1340
+01:47:20,470 --> 01:47:25,927
+... Então, quando o pneu esquerdo sobe no meio -fio, o pneu direito inclina e monta ao longo de sua borda.
+
+1341
+01:47:26,018 --> 01:47:29,303
+Mas isso não aconteceu aqui. A marca dos pneus permaneceu plana e até.
+
+1342
+01:47:29,396 --> 01:47:32,148
+Este carro tinha uma suspensão traseira independente.
+
+1343
+01:47:32,774 --> 01:47:38,480
+Agora, nos anos 60, havia apenas dois outros carros feitos na América que tinham positração ...
+
+1344
+01:47:38,572 --> 01:47:42,486
+... e suspensão traseira independente, e energia suficiente para fazer essas marcas.
+
+1345
+01:47:42,576 --> 01:47:47,452
+Um deles era o Corvette, que nunca poderia ser confundido com o Buick Skylark.
+
+1346
+01:47:47,539 --> 01:47:51,868
+O outro tinha o mesmo comprimento do corpo, altura, largura, peso ...
+
+1347
+01:47:51,960 --> 01:47:55,329
+... Base da roda e trilha da roda como o Skylark '64 ...
+
+1348
+01:47:55,422 --> 01:47:59,123
+... e essa foi a Tempestade Pontiac de 1963.
+
+1349
+01:47:59,217 --> 01:48:03,796
+E porque os dois carros foram feitos por GM ...
+
+1350
+01:48:03,889 --> 01:48:09,132
+... estavam os dois carros disponíveis em tinta metálica de menta verde?
+
+1351
+01:48:09,519 --> 01:48:12,556
+- eles eram. - Obrigado, senhorita Vito.
+
+1352
+01:48:12,648 --> 01:48:16,182
+Não há mais perguntas. Muito obrigado, muito.
+
+1353
+01:48:16,276 --> 01:48:21,022
+Você foi uma testemunha adorável e adorável.
+
+1354
+01:48:21,782 --> 01:48:23,858
+(murmurando)
+
+1355
+01:48:33,168 --> 01:48:36,751
+Sr. Trotter, você gostaria de questionar a senhorita Vito?
+
+1356
+01:48:39,716 --> 01:48:41,923
+(Juiz) Sr. Trotter.
+
+1357
+01:48:44,304 --> 01:48:46,213
+Sr. Trotter!
+
+1358
+01:48:48,976 --> 01:48:50,683
+Uh.
+
+1359
+01:48:50,769 --> 01:48:54,019
+Uh, não. Não, sua honra. Sem perguntas adicionais.
+
+1360
+01:48:54,106 --> 01:48:58,150
+Nesse caso, sua honra, eu gostaria de lembrar George Wilbur.
+
+1361
+01:49:00,362 --> 01:49:03,067
+Senhorita Vito, você pode se deparar.
+
+1362
+01:49:11,123 --> 01:49:13,910
+Você percebe que você ainda está sob juramento.
+
+1363
+01:49:14,001 --> 01:49:16,492
+Sim, sua honra.
+
+1364
+01:49:16,586 --> 01:49:20,999
+Sr. Wilbur, como você gostou do testemunho de Miss Vito?
+
+1365
+01:49:21,800 --> 01:49:23,923
+Muito impressionante.
+
+1366
+01:49:24,011 --> 01:49:26,087
+Ela também é fofa, hein?
+
+1367
+01:49:26,179 --> 01:49:28,801
+- Sim, muito. - (risada)
+
+1368
+01:49:28,890 --> 01:49:32,556
+- (Juiz) Sr. Gambini. - Desculpe, sua honra.
+
+1369
+01:49:32,644 --> 01:49:35,764
+Sr. Wilbur, na sua opinião de especialista ...
+
+1370
+01:49:36,106 --> 01:49:42,559
+... Você diria que tudo o que Miss Vito disse no estande era 100% preciso?
+
+1371
+01:49:44,656 --> 01:49:48,903
+- Eu teria que dizer isso. - e existe alguma maneira no mundo ...
+
+1372
+01:49:48,994 --> 01:49:53,288
+... O Buick que os réus estavam dirigindo fez daqueles pneus?
+
+1373
+01:49:57,753 --> 01:50:00,540
+Vamos. Você pode dizer. Tudo bem, eles sabem.
+
+1374
+01:50:01,465 --> 01:50:03,588
+Na verdade...
+
+1375
+01:50:03,675 --> 01:50:05,715
+...não. - Não.
+
+1376
+01:50:05,802 --> 01:50:08,258
+Obrigado. Não há mais perguntas.
+
+1377
+01:50:11,516 --> 01:50:14,186
+Sua homenagem, eu chamo o xerife Farley.
+
+1378
+01:50:15,771 --> 01:50:18,558
+(Juiz) Você pode se afastar agora, Sr. Wilbur.
+
+1379
+01:50:24,613 --> 01:50:28,397
+- xerife, você percebe que ainda está sob juramento? - Sim, senhor.
+
+1380
+01:50:29,201 --> 01:50:31,277
+Uh, xerife Farley.
+
+1381
+01:50:33,664 --> 01:50:37,613
+- O que você descobriu? - Em um palpite ...
+
+1382
+01:50:37,709 --> 01:50:43,333
+... Eu decidi verificar se havia alguma informação em uma tempestade de Pontiac 63 ...
+
+1383
+01:50:43,548 --> 01:50:45,707
+... roubado ou abandonado recentemente.
+
+1384
+01:50:46,718 --> 01:50:49,589
+Esta leitura do computador confirma que dois meninos ...
+
+1385
+01:50:49,680 --> 01:50:53,380
+... quem se encaixa na descrição dos réus, foi preso há dois dias ...
+
+1386
+01:50:53,475 --> 01:50:56,180
+... por xerife Tilman em Jasper County, Geórgia ...
+
+1387
+01:50:56,269 --> 01:51:01,512
+... para dirigir um Pontiac Tempest de Mint de Mintiac Tempest de 1963 ...
+
+1388
+01:51:02,025 --> 01:51:04,148
+... com um top branco conversível ...
+
+1389
+01:51:04,236 --> 01:51:09,361
+... Modelo Michelin Pneus XGV, tamanho 75R-14.
+
+1390
+01:51:11,493 --> 01:51:13,782
+- É isso? - Não.
+
+1391
+01:51:15,580 --> 01:51:19,530
+A.357 Revolver Magnum foi encontrado em sua posse.
+
+1392
+01:51:20,168 --> 01:51:23,668
+Xerife Farley, apenas para refrescar a memória do tribunal ...
+
+1393
+01:51:23,755 --> 01:51:27,705
+... Que bala de calibre foi usada para matar Jimmy Willis?
+
+1394
+01:51:28,135 --> 01:51:32,132
+- A.357 Magnum. - A defesa repousa.
+
+1395
+01:51:38,395 --> 01:51:40,684
+Sr. Trotter.
+
+1396
+01:51:49,615 --> 01:51:54,360
+Sua honra, à luz do testemunho de Miss Vito e do Sr. Wilbur ...
+
+1397
+01:51:55,996 --> 01:51:58,534
+... O estado gostaria de descartar todas as acusações.
+
+1398
+01:52:05,130 --> 01:52:07,372
+Ordem no tribunal!
+
+1399
+01:52:18,101 --> 01:52:20,141
+Ordem aqui.
+
+1400
+01:52:33,325 --> 01:52:37,192
+Eu tenho que sair daqui por três. Certifique -se de que todas as sacolas estejam no carro.
+
+1401
+01:52:37,287 --> 01:52:42,329
+Vinny, lamento ter duvidado de você a qualquer momento, e por isso peço desculpas.
+
+1402
+01:52:42,417 --> 01:52:48,088
+Nessas circunstâncias ... você foi ótimo. Eu só quero dizer obrigado.
+
+1403
+01:52:48,173 --> 01:52:50,331
+De nada. Espero que possamos fazer isso de novo.
+
+1404
+01:52:50,425 --> 01:52:52,632
+- bom trabalho, Sr. Gambini. - Obrigado.
+
+1405
+01:52:52,719 --> 01:52:56,053
+- Vocês voltam e nos vejam a qualquer momento agora. - Vou ver.
+
+1406
+01:52:56,139 --> 01:52:58,428
+- Vin. - Conta.
+
+1407
+01:53:00,394 --> 01:53:02,470
+- De nada. - Vin, eu ...
+
+1408
+01:53:04,272 --> 01:53:09,563
+Ouvir. Não se apresse, escolha as palavras certas, volte para Nova York, dê uma ligação.
+
+1409
+01:53:13,615 --> 01:53:16,153
+- Vinny, você fez um trabalho fantástico. - Obrigado.
+
+1410
+01:53:16,243 --> 01:53:18,995
+Você recebeu um convite aberto sempre que veio aqui.
+
+1411
+01:53:19,079 --> 01:53:21,784
+- Podemos conseguir um cervo na próxima vez. - OK. Muito obrigado.
+
+1412
+01:53:21,873 --> 01:53:26,037
+Sinto que, se não sair aqui agora, talvez nunca seja capaz de sair.
+
+1413
+01:53:26,128 --> 01:53:28,535
+Sr. Gambini.
+
+1414
+01:53:28,630 --> 01:53:31,667
+Eu tenho um fax aqui do secretário de Nova York.
+
+1415
+01:53:34,928 --> 01:53:37,051
+Devo a você um pedido de desculpas, senhor.
+
+1416
+01:53:37,139 --> 01:53:39,890
+Estou honrado em apertar sua mão.
+
+1417
+01:53:39,975 --> 01:53:42,466
+"Ganhe alguns, perca alguns."
+
+1418
+01:53:42,561 --> 01:53:47,187
+Sua maneira do tribunal pode ser bastante convencional, mas eu tenho que dizer a você ...
+
+1419
+01:53:47,274 --> 01:53:49,765
+... você é um advogado de julgamento infernal.
+
+1420
+01:53:50,402 --> 01:53:53,154
+Obrigado. E você é um infernojudge.
+
+1421
+01:53:53,238 --> 01:53:55,314
+Ooh, desculpe.
+
+1422
+01:53:59,119 --> 01:54:00,744
+(Juiz) Tchau, agora.
+
+1423
+01:54:08,003 --> 01:54:11,004
+O que diabos era isso de volta lá?
+
+1424
+01:54:11,840 --> 01:54:14,378
+Eu tinha um amigo enviado um fax para o juiz ...
+
+1425
+01:54:14,468 --> 01:54:19,628
+... confirmando a impressionante estatura legal de Jerry Callo.
+
+1426
+01:54:20,724 --> 01:54:23,345
+Que amigos você tem no escritório do funcionário?
+
+1427
+01:54:23,435 --> 01:54:26,519
+- Seu amigo. - Meu amigo?
+
+1428
+01:54:26,605 --> 01:54:28,681
+Juiz Malloy.
+
+1429
+01:54:30,942 --> 01:54:33,149
+Então, qual é o seu problema?
+
+1430
+01:54:33,236 --> 01:54:38,195
+Meu problema é que eu queria ganhar meu primeiro caso sem ajuda de ninguém.
+
+1431
+01:54:38,283 --> 01:54:40,442
+Bem, acho que esse plano é discutível.
+
+1432
+01:54:40,535 --> 01:54:42,611
+Sim.
+
+1433
+01:54:43,330 --> 01:54:45,655
+Isso pode ser um sinal do que está por vir.
+
+1434
+01:54:45,916 --> 01:54:49,700
+Você vence todos os seus casos, mas com a ajuda de outra pessoa, certo?
+
+1435
+01:54:49,920 --> 01:54:52,672
+Você ganha caso após caso e depois ...
+
+1436
+01:54:52,756 --> 01:54:57,382
+... Você tem que ir a alguém e você tem que dizer "obrigado".
+
+1437
+01:54:57,469 --> 01:55:00,755
+Oh meu Deus. Que pesadelo porra!
+
+1438
+01:55:07,312 --> 01:55:09,850
+Eu ganhei meu primeiro caso. Você sabe o que isso significa.
+
+1439
+01:55:10,190 --> 01:55:15,018
+- Sim. Você acha que vou me casar com você. - Você não vai se casar comigo agora?
+
+1440
+01:55:15,112 --> 01:55:19,026
+Sem chance. Você não pode ganhar um caso sozinho. Você está inútil.
+
+1441
+01:55:21,910 --> 01:55:24,282
+Eu pensei que nos casaríamos neste fim de semana.
+
+1442
+01:55:24,371 --> 01:55:29,116
+Você não entende, não é? Isso não é romântico. Eu quero um casamento na igreja ...
+
+1443
+01:55:29,459 --> 01:55:31,167
+... com damas de honra e flores.
+
+1444
+01:55:31,253 --> 01:55:35,547
+(Vinny) Ohh! Quantas vezes você disse que espontâneo é romântico?
+
+1445
+01:55:35,632 --> 01:55:39,464
+(Lisa) Ei, um arroto é espontâneo. Um arroto não é romântico.
+
+1446
+01:55:41,805 --> 01:55:43,881
+(* "Cinturão da Bíblia", de Travis Tritt)
+
+
