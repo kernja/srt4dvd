@@ -13,14 +13,14 @@ namespace srt4dvd.Services
         private ISRTOutputService _outputService { get; set; }
 
         const int cMaxLines = 3;
-        const double cBuffer = 0.25;
-        const double cLookAhead = 2.0;
-        const double cBaseCharTime = 0.6;
-        const double cCharsPerSecond = 15;
+        const double cBuffer = 0.10;
+        const double cLookAhead = 3.0;
+        const double cBaseCharTime = 0.4;
+        const double cCharsPerSecond = 20;
 
-        const double cOneLineTime = 1.3;
-        const double cTwoLineTime = 3;
-        const double cThreeLineTime = 6;
+        const double cOneLineTime = 1.1;
+        const double cTwoLineTime = 2.3;
+        const double cThreeLineTime = 4.4;
 
         int counter = 1;
         double currentTimeIndex = 0;

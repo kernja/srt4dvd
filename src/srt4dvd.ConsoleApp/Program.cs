@@ -41,7 +41,7 @@ namespace srt4dvd.ConsoleApp
             if (splitArgs.Length != 2) throw new Exception("Please make sure that the input file and path only contains one period.");
             if (splitArgs[1].ToUpperInvariant() != "SRT") throw new Exception("Only SRT files are supported.");
 
-            return (args[0], splitArgs[1] + "-Sanitized.srt");
+            return (args[0], splitArgs[0] + "-Sanitized.srt");
         }
     }
 }

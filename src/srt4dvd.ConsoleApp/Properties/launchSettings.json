@@ -2,7 +2,7 @@
   "profiles": {
     "EsotericPictureExtractor.ConsoleApp": {
       "commandName": "Project",
-      "commandLineArgs": "\"C:/Users/Jeff/Downloads/WhiteChicks-Portuguese.srt"
+      "commandLineArgs": "\"C:/Users/Jeff/Downloads/WhiteChicks-Esp.srt"
     }
   }
 }
