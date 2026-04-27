@@ -55,8 +55,7 @@ namespace srt4dvd.Services
         public void WriteText(string path, string[] content)
         {
             if (string.IsNullOrWhiteSpace(path)) throw new ArgumentNullException(nameof(path));
-            if (File.Exists(path) == false) throw new FileNotFoundException(path);
-
+            
             try
             {
                 File.WriteAllLines(path, content, new System.Text.UTF8Encoding(false));
@@ -70,8 +69,7 @@ namespace srt4dvd.Services
         public void WriteText(string path, string content)
         {
             if (string.IsNullOrWhiteSpace(path)) throw new ArgumentNullException(nameof(path));
-            if (File.Exists(path) == false) throw new FileNotFoundException(path);
-
+           
             try
             {
                 File.WriteAllText(path, content, new System.Text.UTF8Encoding(false));
@@ -86,8 +84,7 @@ namespace srt4dvd.Services
         public void WriteBinary(string path, byte[] content)
         {
             if (string.IsNullOrWhiteSpace(path)) throw new ArgumentNullException(nameof(path));
-            if (File.Exists(path) == false) throw new FileNotFoundException(path);
-
+            
             try
             {
                 File.WriteAllBytes(path, content);
