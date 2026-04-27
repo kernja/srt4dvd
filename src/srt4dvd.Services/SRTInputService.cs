@@ -36,14 +36,19 @@ namespace srt4dvd.Services
                     continue;
                 }
 
+                var sanitizedInput = _stringService.SanitizeInput(l);
+                if (_stringService.IsEmpty(sanitizedInput) == true) continue;
+
                 filteredLines.Add(new Line
                 {
-                    Value = _stringService.SanitizeInput(l),
+                    Value = sanitizedInput,
                     Start = activeTimeIndex,
                 });
             }
 
             return filteredLines.OrderBy(x => x.Start);
         }
+
+      
     }
 }

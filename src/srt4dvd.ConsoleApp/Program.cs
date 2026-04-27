@@ -8,12 +8,26 @@ namespace srt4dvd.ConsoleApp
     {
         static void Main(string[] args)
         {
-            var arguments = ProcessArgs(args);
-
             var services = CreateServices();
             var srt = services.GetRequiredService<ISRTService>();
 
-            srt.ProcessFile(arguments.sourceFile, arguments.destinationFile);
+            // loop through each argument
+            foreach (var i in args)
+            {
+                // sanitize
+                var sanitizedArg = SanitizeArgs(i);
+                try
+                {
+                    // process
+                    srt.ProcessFile(sanitizedArg.sourceFile, sanitizedArg.destinationFile);
+                    Console.WriteLine($"- Processed file '{sanitizedArg.sourceFile}' as '{sanitizedArg.destinationFile}");
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"- Error processing file '{sanitizedArg.sourceFile}' due to the following exception: {ex.Message}");
+                }
+            }
+           
 
         }
 
@@ -34,14 +48,13 @@ namespace srt4dvd.ConsoleApp
             return serviceProvider.BuildServiceProvider();
         }
 
-        private static (string sourceFile, string destinationFile) ProcessArgs(string[] args)
+        private static (string sourceFile, string destinationFile) SanitizeArgs(string arg)
         {
-            if (args.Length != 1) throw new Exception("Invalid number of arguments.");
-            var splitArgs = args[0].Split(".");
+            var splitArgs = arg.Split(".");
             if (splitArgs.Length != 2) throw new Exception("Please make sure that the input file and path only contains one period.");
             if (splitArgs[1].ToUpperInvariant() != "SRT") throw new Exception("Only SRT files are supported.");
 
-            return (args[0], splitArgs[0] + "-Sanitized.srt");
+            return (arg, splitArgs[0] + "-Sanitized.srt");
         }
     }
 }

@@ -1,4 +1,5 @@
-﻿using System.Text.RegularExpressions;
+﻿using System.Text;
+using System.Text.RegularExpressions;
 
 namespace srt4dvd.Services
 {
@@ -70,6 +71,8 @@ namespace srt4dvd.Services
         {
             if (string.IsNullOrWhiteSpace(value)) return string.Empty;
 
+            // normalize unicode (fix accented characters)
+            value = value.Normalize(NormalizationForm.FormC);
             // remove trailing whitespace
             value = value.Trim();
             // remove HTML tags
@@ -81,5 +84,7 @@ namespace srt4dvd.Services
 
             return value;
         }
+
+       
     }
 }

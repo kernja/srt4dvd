@@ -1,4 +1,6 @@
-﻿namespace srt4dvd.Services
+﻿using System.Text;
+
+namespace srt4dvd.Services
 {
     public interface IIOService
     {
@@ -7,18 +9,27 @@
         void WriteText(string path, string[] content);
         void WriteText(string path, string content);
         void WriteBinary(string path, byte[] content);
-        Stream GetStream(string path);
+      
     }
     public class IOService : IIOService
     {
         public string ReadText(string path)
         {
-            if (string.IsNullOrWhiteSpace(path)) throw new ArgumentNullException(nameof(path));
-            if (File.Exists(path) == false) throw new FileNotFoundException(path);
-
             try
             {
-                return File.ReadAllText(path);
+                var bytes = ReadBinary(path);
+
+                // Try UTF-8 first
+                var utf8 = Encoding.UTF8.GetString(bytes);
+                if (HasValidEncoding(utf8)) return utf8;
+
+                // Try Windows encoding
+                var ansi = Encoding.Default.GetString(bytes);
+                if (HasValidEncoding(ansi)) return ansi;
+
+                // Try UTF-7 (last resort)
+                var utf7 = Encoding.UTF7.GetString(bytes);
+                return utf7;
             }
             catch (Exception ex)
             {
@@ -59,10 +70,11 @@
         public void WriteText(string path, string content)
         {
             if (string.IsNullOrWhiteSpace(path)) throw new ArgumentNullException(nameof(path));
+            if (File.Exists(path) == false) throw new FileNotFoundException(path);
 
             try
             {
-                File.WriteAllText(path, content);
+                File.WriteAllText(path, content, new System.Text.UTF8Encoding(false));
             }
             catch (Exception ex)
             {
@@ -74,6 +86,7 @@
         public void WriteBinary(string path, byte[] content)
         {
             if (string.IsNullOrWhiteSpace(path)) throw new ArgumentNullException(nameof(path));
+            if (File.Exists(path) == false) throw new FileNotFoundException(path);
 
             try
             {
@@ -81,15 +94,14 @@
             }
             catch (Exception ex)
             {
-                throw new Exception("Unable to load file, see inner exception.", ex);
+                throw new Exception("Unable to write file, see inner exception.", ex);
             }
 
         }
 
-        public Stream GetStream(string path)
+        private bool HasValidEncoding(string text)
         {
-            var reader = new StreamReader(path);
-            return reader.BaseStream;
+            return !text.Contains("�") && text.Any(char.IsLetter);
         }
     }
 }
